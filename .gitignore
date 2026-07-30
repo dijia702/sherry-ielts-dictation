@@ -1,0 +1,24 @@
+# Dependency and build output
+node_modules/
+dist/
+release/
+release-final/
+release-good/
+
+# Local runtime, test, and recovery output
+output/
+.playwright-cli/
+.impeccable/
+__pycache__/
+scripts/__pycache__/
+*.pyc
+*.log
+$tmp
+index-*.js
+
+# Editor and operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Browser learning records are intentionally outside this repository.
+# The app keeps them in localStorage for http://127.0.0.1:5173.

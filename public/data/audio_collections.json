@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "collections": [
+    {
+      "id": "jian21",
+      "label": "Sherry雅思听力1000词（剑21版）",
+      "source": "Sherry雅思听力1000词（剑21版）2026.7.2.md",
+      "manifest": "audio/jian21/manifest.json",
+      "source_entry_count": 1052,
+      "audio_item_count": 1066
+    },
+    {
+      "id": "jijing_supplement",
+      "label": "Sherry雅思听力高频补充机经词",
+      "source": "Sherry雅思听力高频补充机经词2026.6.27.md",
+      "manifest": "audio/jijing-supplement/manifest.json",
+      "source_entry_count": 385,
+      "audio_item_count": 392
+    },
+    {
+      "id": "xiahua_p1p4",
+      "label": "虾滑雅思听力P1/P4答案词",
+      "source": "虾滑雅思听力P1P4答案词（去重版）.md",
+      "manifest": "audio/xiahua-p1p4/manifest.json",
+      "source_entry_count": 342,
+      "audio_item_count": 369
+    }
+  ]
+}

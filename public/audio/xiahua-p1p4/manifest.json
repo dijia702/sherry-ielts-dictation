@@ -1,0 +1,3702 @@
+{
+  "schema_version": 1,
+  "source": "虾滑雅思听力P1P4答案词（去重版）.md",
+  "collection_id": "xiahua_p1p4",
+  "voice": "en-GB-SoniaNeural",
+  "rate": "-10%",
+  "generated_at": "2026-07-30T10:24:05.639610+00:00",
+  "source_entry_count": 342,
+  "audio_item_count": 369,
+  "items": [
+    {
+      "entry_index": 1,
+      "page": 1,
+      "number": 1,
+      "source_headword": "taste/flavour/flavor",
+      "pronunciation": "taste",
+      "speech_text": "taste",
+      "variant": 1,
+      "audio": "p01_01a_taste.mp3"
+    },
+    {
+      "entry_index": 1,
+      "page": 1,
+      "number": 1,
+      "source_headword": "taste/flavour/flavor",
+      "pronunciation": "flavour",
+      "speech_text": "flavour",
+      "variant": 2,
+      "audio": "p01_01b_flavour.mp3"
+    },
+    {
+      "entry_index": 1,
+      "page": 1,
+      "number": 1,
+      "source_headword": "taste/flavour/flavor",
+      "pronunciation": "flavor",
+      "speech_text": "flavor",
+      "variant": 3,
+      "audio": "p01_01c_flavor.mp3"
+    },
+    {
+      "entry_index": 2,
+      "page": 1,
+      "number": 2,
+      "source_headword": "Spelling",
+      "pronunciation": "Spelling",
+      "speech_text": "Spelling",
+      "variant": 1,
+      "audio": "p01_02_spelling.mp3"
+    },
+    {
+      "entry_index": 3,
+      "page": 1,
+      "number": 3,
+      "source_headword": "feeding",
+      "pronunciation": "feeding",
+      "speech_text": "feeding",
+      "variant": 1,
+      "audio": "p01_03_feeding.mp3"
+    },
+    {
+      "entry_index": 4,
+      "page": 1,
+      "number": 4,
+      "source_headword": "parents",
+      "pronunciation": "parents",
+      "speech_text": "parents",
+      "variant": 1,
+      "audio": "p01_04_parents.mp3"
+    },
+    {
+      "entry_index": 5,
+      "page": 1,
+      "number": 5,
+      "source_headword": "band",
+      "pronunciation": "band",
+      "speech_text": "band",
+      "variant": 1,
+      "audio": "p01_05_band.mp3"
+    },
+    {
+      "entry_index": 6,
+      "page": 1,
+      "number": 6,
+      "source_headword": "bicycle",
+      "pronunciation": "bicycle",
+      "speech_text": "bicycle",
+      "variant": 1,
+      "audio": "p01_06_bicycle.mp3"
+    },
+    {
+      "entry_index": 7,
+      "page": 1,
+      "number": 7,
+      "source_headword": "Pioneer",
+      "pronunciation": "Pioneer",
+      "speech_text": "Pioneer",
+      "variant": 1,
+      "audio": "p01_07_pioneer.mp3"
+    },
+    {
+      "entry_index": 8,
+      "page": 1,
+      "number": 8,
+      "source_headword": "medicine",
+      "pronunciation": "medicine",
+      "speech_text": "medicine",
+      "variant": 1,
+      "audio": "p01_08_medicine.mp3"
+    },
+    {
+      "entry_index": 9,
+      "page": 1,
+      "number": 9,
+      "source_headword": "income/company’s income",
+      "pronunciation": "income",
+      "speech_text": "income",
+      "variant": 1,
+      "audio": "p01_09a_income.mp3"
+    },
+    {
+      "entry_index": 9,
+      "page": 1,
+      "number": 9,
+      "source_headword": "income/company’s income",
+      "pronunciation": "company’s income",
+      "speech_text": "company’s income",
+      "variant": 2,
+      "audio": "p01_09b_company-s-income.mp3"
+    },
+    {
+      "entry_index": 10,
+      "page": 1,
+      "number": 10,
+      "source_headword": "Influence",
+      "pronunciation": "Influence",
+      "speech_text": "Influence",
+      "variant": 1,
+      "audio": "p01_10_influence.mp3"
+    },
+    {
+      "entry_index": 11,
+      "page": 1,
+      "number": 11,
+      "source_headword": "cleaning",
+      "pronunciation": "cleaning",
+      "speech_text": "cleaning",
+      "variant": 1,
+      "audio": "p01_11_cleaning.mp3"
+    },
+    {
+      "entry_index": 12,
+      "page": 1,
+      "number": 12,
+      "source_headword": "Post Office",
+      "pronunciation": "Post Office",
+      "speech_text": "Post Office",
+      "variant": 1,
+      "audio": "p01_12_post-office.mp3"
+    },
+    {
+      "entry_index": 13,
+      "page": 1,
+      "number": 13,
+      "source_headword": "Next Tuesday",
+      "pronunciation": "Next Tuesday",
+      "speech_text": "Next Tuesday",
+      "variant": 1,
+      "audio": "p01_13_next-tuesday.mp3"
+    },
+    {
+      "entry_index": 14,
+      "page": 1,
+      "number": 14,
+      "source_headword": "mangoes",
+      "pronunciation": "mangoes",
+      "speech_text": "mangoes",
+      "variant": 1,
+      "audio": "p01_14_mangoes.mp3"
+    },
+    {
+      "entry_index": 15,
+      "page": 1,
+      "number": 15,
+      "source_headword": "Storm",
+      "pronunciation": "Storm",
+      "speech_text": "Storm",
+      "variant": 1,
+      "audio": "p01_15_storm.mp3"
+    },
+    {
+      "entry_index": 16,
+      "page": 1,
+      "number": 16,
+      "source_headword": "octopuses",
+      "pronunciation": "octopuses",
+      "speech_text": "octopuses",
+      "variant": 1,
+      "audio": "p01_16_octopuses.mp3"
+    },
+    {
+      "entry_index": 17,
+      "page": 1,
+      "number": 17,
+      "source_headword": "Musical",
+      "pronunciation": "Musical",
+      "speech_text": "Musical",
+      "variant": 1,
+      "audio": "p01_17_musical.mp3"
+    },
+    {
+      "entry_index": 18,
+      "page": 1,
+      "number": 18,
+      "source_headword": "Garden/Cretan Garden",
+      "pronunciation": "Garden",
+      "speech_text": "Garden",
+      "variant": 1,
+      "audio": "p01_18a_garden.mp3"
+    },
+    {
+      "entry_index": 18,
+      "page": 1,
+      "number": 18,
+      "source_headword": "Garden/Cretan Garden",
+      "pronunciation": "Cretan Garden",
+      "speech_text": "Cretan Garden",
+      "variant": 2,
+      "audio": "p01_18b_cretan-garden.mp3"
+    },
+    {
+      "entry_index": 19,
+      "page": 1,
+      "number": 19,
+      "source_headword": "writers",
+      "pronunciation": "writers",
+      "speech_text": "writers",
+      "variant": 1,
+      "audio": "p01_19_writers.mp3"
+    },
+    {
+      "entry_index": 20,
+      "page": 1,
+      "number": 20,
+      "source_headword": "Graphs",
+      "pronunciation": "Graphs",
+      "speech_text": "Graphs",
+      "variant": 1,
+      "audio": "p01_20_graphs.mp3"
+    },
+    {
+      "entry_index": 21,
+      "page": 1,
+      "number": 21,
+      "source_headword": "translation",
+      "pronunciation": "translation",
+      "speech_text": "translation",
+      "variant": 1,
+      "audio": "p01_21_translation.mp3"
+    },
+    {
+      "entry_index": 22,
+      "page": 1,
+      "number": 22,
+      "source_headword": "child seat",
+      "pronunciation": "child seat",
+      "speech_text": "child seat",
+      "variant": 1,
+      "audio": "p01_22_child-seat.mp3"
+    },
+    {
+      "entry_index": 23,
+      "page": 1,
+      "number": 23,
+      "source_headword": "flood",
+      "pronunciation": "flood",
+      "speech_text": "flood",
+      "variant": 1,
+      "audio": "p01_23_flood.mp3"
+    },
+    {
+      "entry_index": 24,
+      "page": 1,
+      "number": 24,
+      "source_headword": "camels",
+      "pronunciation": "camels",
+      "speech_text": "camels",
+      "variant": 1,
+      "audio": "p01_24_camels.mp3"
+    },
+    {
+      "entry_index": 25,
+      "page": 1,
+      "number": 25,
+      "source_headword": "employee first",
+      "pronunciation": "employee first",
+      "speech_text": "employee first",
+      "variant": 1,
+      "audio": "p01_25_employee-first.mp3"
+    },
+    {
+      "entry_index": 26,
+      "page": 2,
+      "number": 1,
+      "source_headword": "sail",
+      "pronunciation": "sail",
+      "speech_text": "sail",
+      "variant": 1,
+      "audio": "p02_01_sail.mp3"
+    },
+    {
+      "entry_index": 27,
+      "page": 2,
+      "number": 2,
+      "source_headword": "lifestyle",
+      "pronunciation": "lifestyle",
+      "speech_text": "lifestyle",
+      "variant": 1,
+      "audio": "p02_02_lifestyle.mp3"
+    },
+    {
+      "entry_index": 28,
+      "page": 2,
+      "number": 3,
+      "source_headword": "middle class",
+      "pronunciation": "middle class",
+      "speech_text": "middle class",
+      "variant": 1,
+      "audio": "p02_03_middle-class.mp3"
+    },
+    {
+      "entry_index": 29,
+      "page": 2,
+      "number": 4,
+      "source_headword": "breed",
+      "pronunciation": "breed",
+      "speech_text": "breed",
+      "variant": 1,
+      "audio": "p02_04_breed.mp3"
+    },
+    {
+      "entry_index": 30,
+      "page": 2,
+      "number": 5,
+      "source_headword": "lock",
+      "pronunciation": "lock",
+      "speech_text": "lock",
+      "variant": 1,
+      "audio": "p02_05_lock.mp3"
+    },
+    {
+      "entry_index": 31,
+      "page": 2,
+      "number": 6,
+      "source_headword": "driver",
+      "pronunciation": "driver",
+      "speech_text": "driver",
+      "variant": 1,
+      "audio": "p02_06_driver.mp3"
+    },
+    {
+      "entry_index": 32,
+      "page": 2,
+      "number": 7,
+      "source_headword": "age",
+      "pronunciation": "age",
+      "speech_text": "age",
+      "variant": 1,
+      "audio": "p02_07_age.mp3"
+    },
+    {
+      "entry_index": 33,
+      "page": 2,
+      "number": 8,
+      "source_headword": "ban",
+      "pronunciation": "ban",
+      "speech_text": "ban",
+      "variant": 1,
+      "audio": "p02_08_ban.mp3"
+    },
+    {
+      "entry_index": 34,
+      "page": 2,
+      "number": 9,
+      "source_headword": "streams",
+      "pronunciation": "streams",
+      "speech_text": "streams",
+      "variant": 1,
+      "audio": "p02_09_streams.mp3"
+    },
+    {
+      "entry_index": 35,
+      "page": 2,
+      "number": 10,
+      "source_headword": "heated",
+      "pronunciation": "heated",
+      "speech_text": "heated",
+      "variant": 1,
+      "audio": "p02_10_heated.mp3"
+    },
+    {
+      "entry_index": 36,
+      "page": 2,
+      "number": 11,
+      "source_headword": "danger",
+      "pronunciation": "danger",
+      "speech_text": "danger",
+      "variant": 1,
+      "audio": "p02_11_danger.mp3"
+    },
+    {
+      "entry_index": 37,
+      "page": 2,
+      "number": 12,
+      "source_headword": "sleep",
+      "pronunciation": "sleep",
+      "speech_text": "sleep",
+      "variant": 1,
+      "audio": "p02_12_sleep.mp3"
+    },
+    {
+      "entry_index": 38,
+      "page": 2,
+      "number": 13,
+      "source_headword": "Trends",
+      "pronunciation": "Trends",
+      "speech_text": "Trends",
+      "variant": 1,
+      "audio": "p02_13_trends.mp3"
+    },
+    {
+      "entry_index": 39,
+      "page": 2,
+      "number": 14,
+      "source_headword": "railway",
+      "pronunciation": "railway",
+      "speech_text": "railway",
+      "variant": 1,
+      "audio": "p02_14_railway.mp3"
+    },
+    {
+      "entry_index": 40,
+      "page": 2,
+      "number": 15,
+      "source_headword": "Zoom",
+      "pronunciation": "Zoom",
+      "speech_text": "Zoom",
+      "variant": 1,
+      "audio": "p02_15_zoom.mp3"
+    },
+    {
+      "entry_index": 41,
+      "page": 2,
+      "number": 16,
+      "source_headword": "nets",
+      "pronunciation": "nets",
+      "speech_text": "nets",
+      "variant": 1,
+      "audio": "p02_16_nets.mp3"
+    },
+    {
+      "entry_index": 42,
+      "page": 2,
+      "number": 17,
+      "source_headword": "square",
+      "pronunciation": "square",
+      "speech_text": "square",
+      "variant": 1,
+      "audio": "p02_17_square.mp3"
+    },
+    {
+      "entry_index": 43,
+      "page": 2,
+      "number": 18,
+      "source_headword": "Balls",
+      "pronunciation": "Balls",
+      "speech_text": "Balls",
+      "variant": 1,
+      "audio": "p02_18_balls.mp3"
+    },
+    {
+      "entry_index": 44,
+      "page": 2,
+      "number": 19,
+      "source_headword": "Pressed",
+      "pronunciation": "Pressed",
+      "speech_text": "Pressed",
+      "variant": 1,
+      "audio": "p02_19_pressed.mp3"
+    },
+    {
+      "entry_index": 45,
+      "page": 2,
+      "number": 20,
+      "source_headword": "Polluted",
+      "pronunciation": "Polluted",
+      "speech_text": "Polluted",
+      "variant": 1,
+      "audio": "p02_20_polluted.mp3"
+    },
+    {
+      "entry_index": 46,
+      "page": 2,
+      "number": 21,
+      "source_headword": "dark blue",
+      "pronunciation": "dark blue",
+      "speech_text": "dark blue",
+      "variant": 1,
+      "audio": "p02_21_dark-blue.mp3"
+    },
+    {
+      "entry_index": 47,
+      "page": 2,
+      "number": 22,
+      "source_headword": "tuna",
+      "pronunciation": "tuna",
+      "speech_text": "tuna",
+      "variant": 1,
+      "audio": "p02_22_tuna.mp3"
+    },
+    {
+      "entry_index": 48,
+      "page": 2,
+      "number": 23,
+      "source_headword": "ocean conditions",
+      "pronunciation": "ocean conditions",
+      "speech_text": "ocean conditions",
+      "variant": 1,
+      "audio": "p02_23_ocean-conditions.mp3"
+    },
+    {
+      "entry_index": 49,
+      "page": 2,
+      "number": 24,
+      "source_headword": "Budget",
+      "pronunciation": "Budget",
+      "speech_text": "Budget",
+      "variant": 1,
+      "audio": "p02_24_budget.mp3"
+    },
+    {
+      "entry_index": 50,
+      "page": 2,
+      "number": 25,
+      "source_headword": "Shopping malls",
+      "pronunciation": "Shopping malls",
+      "speech_text": "Shopping malls",
+      "variant": 1,
+      "audio": "p02_25_shopping-malls.mp3"
+    },
+    {
+      "entry_index": 51,
+      "page": 3,
+      "number": 1,
+      "source_headword": "belt",
+      "pronunciation": "belt",
+      "speech_text": "belt",
+      "variant": 1,
+      "audio": "p03_01_belt.mp3"
+    },
+    {
+      "entry_index": 52,
+      "page": 3,
+      "number": 2,
+      "source_headword": "feminism",
+      "pronunciation": "feminism",
+      "speech_text": "feminism",
+      "variant": 1,
+      "audio": "p03_02_feminism.mp3"
+    },
+    {
+      "entry_index": 53,
+      "page": 3,
+      "number": 3,
+      "source_headword": "more smoothly/smoothly",
+      "pronunciation": "more smoothly",
+      "speech_text": "more smoothly",
+      "variant": 1,
+      "audio": "p03_03a_more-smoothly.mp3"
+    },
+    {
+      "entry_index": 53,
+      "page": 3,
+      "number": 3,
+      "source_headword": "more smoothly/smoothly",
+      "pronunciation": "smoothly",
+      "speech_text": "smoothly",
+      "variant": 2,
+      "audio": "p03_03b_smoothly.mp3"
+    },
+    {
+      "entry_index": 54,
+      "page": 3,
+      "number": 4,
+      "source_headword": "manufacturing",
+      "pronunciation": "manufacturing",
+      "speech_text": "manufacturing",
+      "variant": 1,
+      "audio": "p03_04_manufacturing.mp3"
+    },
+    {
+      "entry_index": 55,
+      "page": 3,
+      "number": 5,
+      "source_headword": "collection",
+      "pronunciation": "collection",
+      "speech_text": "collection",
+      "variant": 1,
+      "audio": "p03_05_collection.mp3"
+    },
+    {
+      "entry_index": 56,
+      "page": 3,
+      "number": 6,
+      "source_headword": "repair",
+      "pronunciation": "repair",
+      "speech_text": "repair",
+      "variant": 1,
+      "audio": "p03_06_repair.mp3"
+    },
+    {
+      "entry_index": 57,
+      "page": 3,
+      "number": 7,
+      "source_headword": "democratic",
+      "pronunciation": "democratic",
+      "speech_text": "democratic",
+      "variant": 1,
+      "audio": "p03_07_democratic.mp3"
+    },
+    {
+      "entry_index": 58,
+      "page": 3,
+      "number": 8,
+      "source_headword": "Horse riding",
+      "pronunciation": "Horse riding",
+      "speech_text": "Horse riding",
+      "variant": 1,
+      "audio": "p03_08_horse-riding.mp3"
+    },
+    {
+      "entry_index": 59,
+      "page": 3,
+      "number": 9,
+      "source_headword": "nineteen",
+      "pronunciation": "nineteen",
+      "speech_text": "nineteen",
+      "variant": 1,
+      "audio": "p03_09_nineteen.mp3"
+    },
+    {
+      "entry_index": 60,
+      "page": 3,
+      "number": 10,
+      "source_headword": "coast",
+      "pronunciation": "coast",
+      "speech_text": "coast",
+      "variant": 1,
+      "audio": "p03_10_coast.mp3"
+    },
+    {
+      "entry_index": 61,
+      "page": 3,
+      "number": 11,
+      "source_headword": "Limited",
+      "pronunciation": "Limited",
+      "speech_text": "Limited",
+      "variant": 1,
+      "audio": "p03_11_limited.mp3"
+    },
+    {
+      "entry_index": 62,
+      "page": 3,
+      "number": 12,
+      "source_headword": "clean",
+      "pronunciation": "clean",
+      "speech_text": "clean",
+      "variant": 1,
+      "audio": "p03_12_clean.mp3"
+    },
+    {
+      "entry_index": 63,
+      "page": 3,
+      "number": 13,
+      "source_headword": "walking",
+      "pronunciation": "walking",
+      "speech_text": "walking",
+      "variant": 1,
+      "audio": "p03_13_walking.mp3"
+    },
+    {
+      "entry_index": 64,
+      "page": 3,
+      "number": 14,
+      "source_headword": "aeroplane/airplane",
+      "pronunciation": "aeroplane",
+      "speech_text": "aeroplane",
+      "variant": 1,
+      "audio": "p03_14a_aeroplane.mp3"
+    },
+    {
+      "entry_index": 64,
+      "page": 3,
+      "number": 14,
+      "source_headword": "aeroplane/airplane",
+      "pronunciation": "airplane",
+      "speech_text": "airplane",
+      "variant": 2,
+      "audio": "p03_14b_airplane.mp3"
+    },
+    {
+      "entry_index": 65,
+      "page": 3,
+      "number": 15,
+      "source_headword": "early mornings",
+      "pronunciation": "early mornings",
+      "speech_text": "early mornings",
+      "variant": 1,
+      "audio": "p03_15_early-mornings.mp3"
+    },
+    {
+      "entry_index": 66,
+      "page": 3,
+      "number": 16,
+      "source_headword": "storms",
+      "pronunciation": "storms",
+      "speech_text": "storms",
+      "variant": 1,
+      "audio": "p03_16_storms.mp3"
+    },
+    {
+      "entry_index": 67,
+      "page": 3,
+      "number": 17,
+      "source_headword": "post.com",
+      "pronunciation": "post.com",
+      "speech_text": "post.com",
+      "variant": 1,
+      "audio": "p03_17_post-com.mp3"
+    },
+    {
+      "entry_index": 68,
+      "page": 3,
+      "number": 18,
+      "source_headword": "wildlife",
+      "pronunciation": "wildlife",
+      "speech_text": "wildlife",
+      "variant": 1,
+      "audio": "p03_18_wildlife.mp3"
+    },
+    {
+      "entry_index": 69,
+      "page": 3,
+      "number": 19,
+      "source_headword": "snowboarding",
+      "pronunciation": "snowboarding",
+      "speech_text": "snowboarding",
+      "variant": 1,
+      "audio": "p03_19_snowboarding.mp3"
+    },
+    {
+      "entry_index": 70,
+      "page": 3,
+      "number": 20,
+      "source_headword": "Kierke",
+      "pronunciation": "Kierke",
+      "speech_text": "Kierke",
+      "variant": 1,
+      "audio": "p03_20_kierke.mp3"
+    },
+    {
+      "entry_index": 71,
+      "page": 3,
+      "number": 21,
+      "source_headword": "Gym",
+      "pronunciation": "Gym",
+      "speech_text": "Gym",
+      "variant": 1,
+      "audio": "p03_21_gym.mp3"
+    },
+    {
+      "entry_index": 72,
+      "page": 3,
+      "number": 22,
+      "source_headword": "Dance",
+      "pronunciation": "Dance",
+      "speech_text": "Dance",
+      "variant": 1,
+      "audio": "p03_22_dance.mp3"
+    },
+    {
+      "entry_index": 73,
+      "page": 3,
+      "number": 23,
+      "source_headword": "receptionist",
+      "pronunciation": "receptionist",
+      "speech_text": "receptionist",
+      "variant": 1,
+      "audio": "p03_23_receptionist.mp3"
+    },
+    {
+      "entry_index": 74,
+      "page": 3,
+      "number": 24,
+      "source_headword": "chemical",
+      "pronunciation": "chemical",
+      "speech_text": "chemical",
+      "variant": 1,
+      "audio": "p03_24_chemical.mp3"
+    },
+    {
+      "entry_index": 75,
+      "page": 3,
+      "number": 25,
+      "source_headword": "exercises",
+      "pronunciation": "exercises",
+      "speech_text": "exercises",
+      "variant": 1,
+      "audio": "p03_25_exercises.mp3"
+    },
+    {
+      "entry_index": 76,
+      "page": 4,
+      "number": 1,
+      "source_headword": "value",
+      "pronunciation": "value",
+      "speech_text": "value",
+      "variant": 1,
+      "audio": "p04_01_value.mp3"
+    },
+    {
+      "entry_index": 77,
+      "page": 4,
+      "number": 2,
+      "source_headword": "fun",
+      "pronunciation": "fun",
+      "speech_text": "fun",
+      "variant": 1,
+      "audio": "p04_02_fun.mp3"
+    },
+    {
+      "entry_index": 78,
+      "page": 4,
+      "number": 3,
+      "source_headword": "warm",
+      "pronunciation": "warm",
+      "speech_text": "warm",
+      "variant": 1,
+      "audio": "p04_03_warm.mp3"
+    },
+    {
+      "entry_index": 79,
+      "page": 4,
+      "number": 4,
+      "source_headword": "sandwiches",
+      "pronunciation": "sandwiches",
+      "speech_text": "sandwiches",
+      "variant": 1,
+      "audio": "p04_04_sandwiches.mp3"
+    },
+    {
+      "entry_index": 80,
+      "page": 4,
+      "number": 5,
+      "source_headword": "rescue diver",
+      "pronunciation": "rescue diver",
+      "speech_text": "rescue diver",
+      "variant": 1,
+      "audio": "p04_05_rescue-diver.mp3"
+    },
+    {
+      "entry_index": 81,
+      "page": 4,
+      "number": 6,
+      "source_headword": "State",
+      "pronunciation": "State",
+      "speech_text": "State",
+      "variant": 1,
+      "audio": "p04_06_state.mp3"
+    },
+    {
+      "entry_index": 82,
+      "page": 4,
+      "number": 7,
+      "source_headword": "Protected",
+      "pronunciation": "Protected",
+      "speech_text": "Protected",
+      "variant": 1,
+      "audio": "p04_07_protected.mp3"
+    },
+    {
+      "entry_index": 83,
+      "page": 4,
+      "number": 8,
+      "source_headword": "status",
+      "pronunciation": "status",
+      "speech_text": "status",
+      "variant": 1,
+      "audio": "p04_08_status.mp3"
+    },
+    {
+      "entry_index": 84,
+      "page": 4,
+      "number": 9,
+      "source_headword": "Trousers",
+      "pronunciation": "Trousers",
+      "speech_text": "Trousers",
+      "variant": 1,
+      "audio": "p04_09_trousers.mp3"
+    },
+    {
+      "entry_index": 85,
+      "page": 4,
+      "number": 10,
+      "source_headword": "SWAVESEY",
+      "pronunciation": "SWAVESEY",
+      "speech_text": "SWAVESEY",
+      "variant": 1,
+      "audio": "p04_10_swavesey.mp3"
+    },
+    {
+      "entry_index": 86,
+      "page": 4,
+      "number": 11,
+      "source_headword": "safer",
+      "pronunciation": "safer",
+      "speech_text": "safer",
+      "variant": 1,
+      "audio": "p04_11_safer.mp3"
+    },
+    {
+      "entry_index": 87,
+      "page": 4,
+      "number": 12,
+      "source_headword": "Wind",
+      "pronunciation": "Wind",
+      "speech_text": "Wind",
+      "variant": 1,
+      "audio": "p04_12_wind.mp3"
+    },
+    {
+      "entry_index": 88,
+      "page": 4,
+      "number": 13,
+      "source_headword": "Japan",
+      "pronunciation": "Japan",
+      "speech_text": "Japan",
+      "variant": 1,
+      "audio": "p04_13_japan.mp3"
+    },
+    {
+      "entry_index": 89,
+      "page": 4,
+      "number": 14,
+      "source_headword": "Cable car",
+      "pronunciation": "Cable car",
+      "speech_text": "Cable car",
+      "variant": 1,
+      "audio": "p04_14_cable-car.mp3"
+    },
+    {
+      "entry_index": 90,
+      "page": 4,
+      "number": 15,
+      "source_headword": "Words",
+      "pronunciation": "Words",
+      "speech_text": "Words",
+      "variant": 1,
+      "audio": "p04_15_words.mp3"
+    },
+    {
+      "entry_index": 91,
+      "page": 4,
+      "number": 16,
+      "source_headword": "Sandglasses",
+      "pronunciation": "Sandglasses",
+      "speech_text": "Sandglasses",
+      "variant": 1,
+      "audio": "p04_16_sandglasses.mp3"
+    },
+    {
+      "entry_index": 92,
+      "page": 4,
+      "number": 17,
+      "source_headword": "film",
+      "pronunciation": "film",
+      "speech_text": "film",
+      "variant": 1,
+      "audio": "p04_17_film.mp3"
+    },
+    {
+      "entry_index": 93,
+      "page": 4,
+      "number": 18,
+      "source_headword": "eight",
+      "pronunciation": "eight",
+      "speech_text": "eight",
+      "variant": 1,
+      "audio": "p04_18_eight.mp3"
+    },
+    {
+      "entry_index": 94,
+      "page": 4,
+      "number": 19,
+      "source_headword": "North America",
+      "pronunciation": "North America",
+      "speech_text": "North America",
+      "variant": 1,
+      "audio": "p04_19_north-america.mp3"
+    },
+    {
+      "entry_index": 95,
+      "page": 4,
+      "number": 20,
+      "source_headword": "Freedom",
+      "pronunciation": "Freedom",
+      "speech_text": "Freedom",
+      "variant": 1,
+      "audio": "p04_20_freedom.mp3"
+    },
+    {
+      "entry_index": 96,
+      "page": 4,
+      "number": 21,
+      "source_headword": "Accept",
+      "pronunciation": "Accept",
+      "speech_text": "Accept",
+      "variant": 1,
+      "audio": "p04_21_accept.mp3"
+    },
+    {
+      "entry_index": 97,
+      "page": 4,
+      "number": 22,
+      "source_headword": "Myth",
+      "pronunciation": "Myth",
+      "speech_text": "Myth",
+      "variant": 1,
+      "audio": "p04_22_myth.mp3"
+    },
+    {
+      "entry_index": 98,
+      "page": 4,
+      "number": 23,
+      "source_headword": "credit check",
+      "pronunciation": "credit check",
+      "speech_text": "credit check",
+      "variant": 1,
+      "audio": "p04_23_credit-check.mp3"
+    },
+    {
+      "entry_index": 99,
+      "page": 4,
+      "number": 24,
+      "source_headword": "tape measure",
+      "pronunciation": "tape measure",
+      "speech_text": "tape measure",
+      "variant": 1,
+      "audio": "p04_24_tape-measure.mp3"
+    },
+    {
+      "entry_index": 100,
+      "page": 4,
+      "number": 25,
+      "source_headword": "satellite",
+      "pronunciation": "satellite",
+      "speech_text": "satellite",
+      "variant": 1,
+      "audio": "p04_25_satellite.mp3"
+    },
+    {
+      "entry_index": 101,
+      "page": 5,
+      "number": 1,
+      "source_headword": "Glass",
+      "pronunciation": "Glass",
+      "speech_text": "Glass",
+      "variant": 1,
+      "audio": "p05_01_glass.mp3"
+    },
+    {
+      "entry_index": 102,
+      "page": 5,
+      "number": 2,
+      "source_headword": "preserved",
+      "pronunciation": "preserved",
+      "speech_text": "preserved",
+      "variant": 1,
+      "audio": "p05_02_preserved.mp3"
+    },
+    {
+      "entry_index": 103,
+      "page": 5,
+      "number": 3,
+      "source_headword": "carnival",
+      "pronunciation": "carnival",
+      "speech_text": "carnival",
+      "variant": 1,
+      "audio": "p05_03_carnival.mp3"
+    },
+    {
+      "entry_index": 104,
+      "page": 5,
+      "number": 4,
+      "source_headword": "Crops",
+      "pronunciation": "Crops",
+      "speech_text": "Crops",
+      "variant": 1,
+      "audio": "p05_04_crops.mp3"
+    },
+    {
+      "entry_index": 105,
+      "page": 5,
+      "number": 5,
+      "source_headword": "North africa",
+      "pronunciation": "North africa",
+      "speech_text": "North africa",
+      "variant": 1,
+      "audio": "p05_05_north-africa.mp3"
+    },
+    {
+      "entry_index": 106,
+      "page": 5,
+      "number": 6,
+      "source_headword": "Farmers",
+      "pronunciation": "Farmers",
+      "speech_text": "Farmers",
+      "variant": 1,
+      "audio": "p05_06_farmers.mp3"
+    },
+    {
+      "entry_index": 107,
+      "page": 5,
+      "number": 7,
+      "source_headword": "Regional Manager",
+      "pronunciation": "Regional Manager",
+      "speech_text": "Regional Manager",
+      "variant": 1,
+      "audio": "p05_07_regional-manager.mp3"
+    },
+    {
+      "entry_index": 108,
+      "page": 5,
+      "number": 8,
+      "source_headword": "diving experience",
+      "pronunciation": "diving experience",
+      "speech_text": "diving experience",
+      "variant": 1,
+      "audio": "p05_08_diving-experience.mp3"
+    },
+    {
+      "entry_index": 109,
+      "page": 5,
+      "number": 9,
+      "source_headword": "whistle",
+      "pronunciation": "whistle",
+      "speech_text": "whistle",
+      "variant": 1,
+      "audio": "p05_09_whistle.mp3"
+    },
+    {
+      "entry_index": 110,
+      "page": 5,
+      "number": 10,
+      "source_headword": "Map/Good Map",
+      "pronunciation": "Map",
+      "speech_text": "Map",
+      "variant": 1,
+      "audio": "p05_10a_map.mp3"
+    },
+    {
+      "entry_index": 110,
+      "page": 5,
+      "number": 10,
+      "source_headword": "Map/Good Map",
+      "pronunciation": "Good Map",
+      "speech_text": "Good Map",
+      "variant": 2,
+      "audio": "p05_10b_good-map.mp3"
+    },
+    {
+      "entry_index": 111,
+      "page": 5,
+      "number": 11,
+      "source_headword": "baseball coach",
+      "pronunciation": "baseball coach",
+      "speech_text": "baseball coach",
+      "variant": 1,
+      "audio": "p05_11_baseball-coach.mp3"
+    },
+    {
+      "entry_index": 112,
+      "page": 5,
+      "number": 12,
+      "source_headword": "DRESSLER",
+      "pronunciation": "DRESSLER",
+      "speech_text": "D R E S S L E R",
+      "variant": 1,
+      "audio": "p05_12_dressler.mp3"
+    },
+    {
+      "entry_index": 113,
+      "page": 5,
+      "number": 13,
+      "source_headword": "shell",
+      "pronunciation": "shell",
+      "speech_text": "shell",
+      "variant": 1,
+      "audio": "p05_13_shell.mp3"
+    },
+    {
+      "entry_index": 114,
+      "page": 5,
+      "number": 14,
+      "source_headword": "residents",
+      "pronunciation": "residents",
+      "speech_text": "residents",
+      "variant": 1,
+      "audio": "p05_14_residents.mp3"
+    },
+    {
+      "entry_index": 115,
+      "page": 5,
+      "number": 15,
+      "source_headword": "Smithers",
+      "pronunciation": "Smithers",
+      "speech_text": "Smithers",
+      "variant": 1,
+      "audio": "p05_15_smithers.mp3"
+    },
+    {
+      "entry_index": 116,
+      "page": 5,
+      "number": 16,
+      "source_headword": "radio",
+      "pronunciation": "radio",
+      "speech_text": "radio",
+      "variant": 1,
+      "audio": "p05_16_radio.mp3"
+    },
+    {
+      "entry_index": 117,
+      "page": 5,
+      "number": 17,
+      "source_headword": "four days",
+      "pronunciation": "four days",
+      "speech_text": "four days",
+      "variant": 1,
+      "audio": "p05_17_four-days.mp3"
+    },
+    {
+      "entry_index": 118,
+      "page": 5,
+      "number": 18,
+      "source_headword": "Russia",
+      "pronunciation": "Russia",
+      "speech_text": "Russia",
+      "variant": 1,
+      "audio": "p05_18_russia.mp3"
+    },
+    {
+      "entry_index": 119,
+      "page": 5,
+      "number": 19,
+      "source_headword": "charity",
+      "pronunciation": "charity",
+      "speech_text": "charity",
+      "variant": 1,
+      "audio": "p05_19_charity.mp3"
+    },
+    {
+      "entry_index": 120,
+      "page": 5,
+      "number": 20,
+      "source_headword": "club",
+      "pronunciation": "club",
+      "speech_text": "club",
+      "variant": 1,
+      "audio": "p05_20_club.mp3"
+    },
+    {
+      "entry_index": 121,
+      "page": 5,
+      "number": 21,
+      "source_headword": "oldest",
+      "pronunciation": "oldest",
+      "speech_text": "oldest",
+      "variant": 1,
+      "audio": "p05_21_oldest.mp3"
+    },
+    {
+      "entry_index": 122,
+      "page": 5,
+      "number": 22,
+      "source_headword": "Walking boots",
+      "pronunciation": "Walking boots",
+      "speech_text": "Walking boots",
+      "variant": 1,
+      "audio": "p05_22_walking-boots.mp3"
+    },
+    {
+      "entry_index": 123,
+      "page": 5,
+      "number": 23,
+      "source_headword": "Mould/Mold",
+      "pronunciation": "Mould",
+      "speech_text": "Mould",
+      "variant": 1,
+      "audio": "p05_23a_mould.mp3"
+    },
+    {
+      "entry_index": 123,
+      "page": 5,
+      "number": 23,
+      "source_headword": "Mould/Mold",
+      "pronunciation": "Mold",
+      "speech_text": "Mold",
+      "variant": 2,
+      "audio": "p05_23b_mold.mp3"
+    },
+    {
+      "entry_index": 124,
+      "page": 5,
+      "number": 24,
+      "source_headword": "forty-eight",
+      "pronunciation": "forty-eight",
+      "speech_text": "forty-eight",
+      "variant": 1,
+      "audio": "p05_24_forty-eight.mp3"
+    },
+    {
+      "entry_index": 125,
+      "page": 5,
+      "number": 25,
+      "source_headword": "vacation",
+      "pronunciation": "vacation",
+      "speech_text": "vacation",
+      "variant": 1,
+      "audio": "p05_25_vacation.mp3"
+    },
+    {
+      "entry_index": 126,
+      "page": 6,
+      "number": 1,
+      "source_headword": "balcony",
+      "pronunciation": "balcony",
+      "speech_text": "balcony",
+      "variant": 1,
+      "audio": "p06_01_balcony.mp3"
+    },
+    {
+      "entry_index": 127,
+      "page": 6,
+      "number": 2,
+      "source_headword": "Triangle",
+      "pronunciation": "Triangle",
+      "speech_text": "Triangle",
+      "variant": 1,
+      "audio": "p06_02_triangle.mp3"
+    },
+    {
+      "entry_index": 128,
+      "page": 6,
+      "number": 3,
+      "source_headword": "drive",
+      "pronunciation": "drive",
+      "speech_text": "drive",
+      "variant": 1,
+      "audio": "p06_03_drive.mp3"
+    },
+    {
+      "entry_index": 129,
+      "page": 6,
+      "number": 4,
+      "source_headword": "two pockets",
+      "pronunciation": "two pockets",
+      "speech_text": "two pockets",
+      "variant": 1,
+      "audio": "p06_04_two-pockets.mp3"
+    },
+    {
+      "entry_index": 130,
+      "page": 6,
+      "number": 5,
+      "source_headword": "pens",
+      "pronunciation": "pens",
+      "speech_text": "pens",
+      "variant": 1,
+      "audio": "p06_05_pens.mp3"
+    },
+    {
+      "entry_index": 131,
+      "page": 6,
+      "number": 6,
+      "source_headword": "skirt",
+      "pronunciation": "skirt",
+      "speech_text": "skirt",
+      "variant": 1,
+      "audio": "p06_06_skirt.mp3"
+    },
+    {
+      "entry_index": 132,
+      "page": 6,
+      "number": 7,
+      "source_headword": "Supervisor",
+      "pronunciation": "Supervisor",
+      "speech_text": "Supervisor",
+      "variant": 1,
+      "audio": "p06_07_supervisor.mp3"
+    },
+    {
+      "entry_index": 133,
+      "page": 6,
+      "number": 8,
+      "source_headword": "Saturday mornings",
+      "pronunciation": "Saturday mornings",
+      "speech_text": "Saturday mornings",
+      "variant": 1,
+      "audio": "p06_08_saturday-mornings.mp3"
+    },
+    {
+      "entry_index": 134,
+      "page": 6,
+      "number": 9,
+      "source_headword": "navigational",
+      "pronunciation": "navigational",
+      "speech_text": "navigational",
+      "variant": 1,
+      "audio": "p06_09_navigational.mp3"
+    },
+    {
+      "entry_index": 135,
+      "page": 6,
+      "number": 10,
+      "source_headword": "Wood",
+      "pronunciation": "Wood",
+      "speech_text": "Wood",
+      "variant": 1,
+      "audio": "p06_10_wood.mp3"
+    },
+    {
+      "entry_index": 136,
+      "page": 6,
+      "number": 11,
+      "source_headword": "Greenride",
+      "pronunciation": "Greenride",
+      "speech_text": "Greenride",
+      "variant": 1,
+      "audio": "p06_11_greenride.mp3"
+    },
+    {
+      "entry_index": 137,
+      "page": 6,
+      "number": 12,
+      "source_headword": "less effort",
+      "pronunciation": "less effort",
+      "speech_text": "less effort",
+      "variant": 1,
+      "audio": "p06_12_less-effort.mp3"
+    },
+    {
+      "entry_index": 138,
+      "page": 6,
+      "number": 13,
+      "source_headword": "teeth",
+      "pronunciation": "teeth",
+      "speech_text": "teeth",
+      "variant": 1,
+      "audio": "p06_13_teeth.mp3"
+    },
+    {
+      "entry_index": 139,
+      "page": 6,
+      "number": 14,
+      "source_headword": "tools",
+      "pronunciation": "tools",
+      "speech_text": "tools",
+      "variant": 1,
+      "audio": "p06_14_tools.mp3"
+    },
+    {
+      "entry_index": 140,
+      "page": 6,
+      "number": 15,
+      "source_headword": "Plans",
+      "pronunciation": "Plans",
+      "speech_text": "Plans",
+      "variant": 1,
+      "audio": "p06_15_plans.mp3"
+    },
+    {
+      "entry_index": 141,
+      "page": 6,
+      "number": 16,
+      "source_headword": "eclipse",
+      "pronunciation": "eclipse",
+      "speech_text": "eclipse",
+      "variant": 1,
+      "audio": "p06_16_eclipse.mp3"
+    },
+    {
+      "entry_index": 142,
+      "page": 6,
+      "number": 17,
+      "source_headword": "economy",
+      "pronunciation": "economy",
+      "speech_text": "economy",
+      "variant": 1,
+      "audio": "p06_17_economy.mp3"
+    },
+    {
+      "entry_index": 143,
+      "page": 6,
+      "number": 18,
+      "source_headword": "Sun’s position",
+      "pronunciation": "Sun’s position",
+      "speech_text": "Sun’s position",
+      "variant": 1,
+      "audio": "p06_18_sun-s-position.mp3"
+    },
+    {
+      "entry_index": 144,
+      "page": 6,
+      "number": 19,
+      "source_headword": "spines",
+      "pronunciation": "spines",
+      "speech_text": "spines",
+      "variant": 1,
+      "audio": "p06_19_spines.mp3"
+    },
+    {
+      "entry_index": 145,
+      "page": 6,
+      "number": 20,
+      "source_headword": "Feature",
+      "pronunciation": "Feature",
+      "speech_text": "Feature",
+      "variant": 1,
+      "audio": "p06_20_feature.mp3"
+    },
+    {
+      "entry_index": 146,
+      "page": 6,
+      "number": 21,
+      "source_headword": "Traders",
+      "pronunciation": "Traders",
+      "speech_text": "Traders",
+      "variant": 1,
+      "audio": "p06_21_traders.mp3"
+    },
+    {
+      "entry_index": 147,
+      "page": 6,
+      "number": 22,
+      "source_headword": "promotion",
+      "pronunciation": "promotion",
+      "speech_text": "promotion",
+      "variant": 1,
+      "audio": "p06_22_promotion.mp3"
+    },
+    {
+      "entry_index": 148,
+      "page": 6,
+      "number": 23,
+      "source_headword": "trays",
+      "pronunciation": "trays",
+      "speech_text": "trays",
+      "variant": 1,
+      "audio": "p06_23_trays.mp3"
+    },
+    {
+      "entry_index": 149,
+      "page": 6,
+      "number": 24,
+      "source_headword": "fertilizers/fertilisers",
+      "pronunciation": "fertilizers",
+      "speech_text": "fertilizers",
+      "variant": 1,
+      "audio": "p06_24a_fertilizers.mp3"
+    },
+    {
+      "entry_index": 149,
+      "page": 6,
+      "number": 24,
+      "source_headword": "fertilizers/fertilisers",
+      "pronunciation": "fertilisers",
+      "speech_text": "fertilisers",
+      "variant": 2,
+      "audio": "p06_24b_fertilisers.mp3"
+    },
+    {
+      "entry_index": 150,
+      "page": 6,
+      "number": 25,
+      "source_headword": "change",
+      "pronunciation": "change",
+      "speech_text": "change",
+      "variant": 1,
+      "audio": "p06_25_change.mp3"
+    },
+    {
+      "entry_index": 151,
+      "page": 7,
+      "number": 1,
+      "source_headword": "bonus/bonuses",
+      "pronunciation": "bonus",
+      "speech_text": "bonus",
+      "variant": 1,
+      "audio": "p07_01a_bonus.mp3"
+    },
+    {
+      "entry_index": 151,
+      "page": 7,
+      "number": 1,
+      "source_headword": "bonus/bonuses",
+      "pronunciation": "bonuses",
+      "speech_text": "bonuses",
+      "variant": 2,
+      "audio": "p07_01b_bonuses.mp3"
+    },
+    {
+      "entry_index": 152,
+      "page": 7,
+      "number": 2,
+      "source_headword": "transparency",
+      "pronunciation": "transparency",
+      "speech_text": "transparency",
+      "variant": 1,
+      "audio": "p07_02_transparency.mp3"
+    },
+    {
+      "entry_index": 153,
+      "page": 7,
+      "number": 3,
+      "source_headword": "letter",
+      "pronunciation": "letter",
+      "speech_text": "letter",
+      "variant": 1,
+      "audio": "p07_03_letter.mp3"
+    },
+    {
+      "entry_index": 154,
+      "page": 7,
+      "number": 4,
+      "source_headword": "elephant",
+      "pronunciation": "elephant",
+      "speech_text": "elephant",
+      "variant": 1,
+      "audio": "p07_04_elephant.mp3"
+    },
+    {
+      "entry_index": 155,
+      "page": 7,
+      "number": 5,
+      "source_headword": "inscriptions",
+      "pronunciation": "inscriptions",
+      "speech_text": "inscriptions",
+      "variant": 1,
+      "audio": "p07_05_inscriptions.mp3"
+    },
+    {
+      "entry_index": 156,
+      "page": 7,
+      "number": 6,
+      "source_headword": "Advertisements",
+      "pronunciation": "Advertisements",
+      "speech_text": "Advertisements",
+      "variant": 1,
+      "audio": "p07_06_advertisements.mp3"
+    },
+    {
+      "entry_index": 157,
+      "page": 7,
+      "number": 7,
+      "source_headword": "cosmetics",
+      "pronunciation": "cosmetics",
+      "speech_text": "cosmetics",
+      "variant": 1,
+      "audio": "p07_07_cosmetics.mp3"
+    },
+    {
+      "entry_index": 158,
+      "page": 7,
+      "number": 8,
+      "source_headword": "internal website",
+      "pronunciation": "internal website",
+      "speech_text": "internal website",
+      "variant": 1,
+      "audio": "p07_08_internal-website.mp3"
+    },
+    {
+      "entry_index": 159,
+      "page": 7,
+      "number": 9,
+      "source_headword": "audiences/the poor",
+      "pronunciation": "audiences",
+      "speech_text": "audiences",
+      "variant": 1,
+      "audio": "p07_09a_audiences.mp3"
+    },
+    {
+      "entry_index": 159,
+      "page": 7,
+      "number": 9,
+      "source_headword": "audiences/the poor",
+      "pronunciation": "the poor",
+      "speech_text": "the poor",
+      "variant": 2,
+      "audio": "p07_09b_the-poor.mp3"
+    },
+    {
+      "entry_index": 160,
+      "page": 7,
+      "number": 10,
+      "source_headword": "flavour/flavor",
+      "pronunciation": "flavour",
+      "speech_text": "flavour",
+      "variant": 1,
+      "audio": "p07_10a_flavour.mp3"
+    },
+    {
+      "entry_index": 160,
+      "page": 7,
+      "number": 10,
+      "source_headword": "flavour/flavor",
+      "pronunciation": "flavor",
+      "speech_text": "flavor",
+      "variant": 2,
+      "audio": "p07_10b_flavor.mp3"
+    },
+    {
+      "entry_index": 161,
+      "page": 7,
+      "number": 11,
+      "source_headword": "Fish dishes",
+      "pronunciation": "Fish dishes",
+      "speech_text": "Fish dishes",
+      "variant": 1,
+      "audio": "p07_11_fish-dishes.mp3"
+    },
+    {
+      "entry_index": 162,
+      "page": 7,
+      "number": 12,
+      "source_headword": "clocks",
+      "pronunciation": "clocks",
+      "speech_text": "clocks",
+      "variant": 1,
+      "audio": "p07_12_clocks.mp3"
+    },
+    {
+      "entry_index": 163,
+      "page": 7,
+      "number": 13,
+      "source_headword": "wild",
+      "pronunciation": "wild",
+      "speech_text": "wild",
+      "variant": 1,
+      "audio": "p07_13_wild.mp3"
+    },
+    {
+      "entry_index": 164,
+      "page": 7,
+      "number": 14,
+      "source_headword": "King/kings",
+      "pronunciation": "King",
+      "speech_text": "King",
+      "variant": 1,
+      "audio": "p07_14a_king.mp3"
+    },
+    {
+      "entry_index": 164,
+      "page": 7,
+      "number": 14,
+      "source_headword": "King/kings",
+      "pronunciation": "kings",
+      "speech_text": "kings",
+      "variant": 2,
+      "audio": "p07_14b_kings.mp3"
+    },
+    {
+      "entry_index": 165,
+      "page": 7,
+      "number": 15,
+      "source_headword": "anti-freeze/antifreeze",
+      "pronunciation": "anti-freeze",
+      "speech_text": "anti-freeze",
+      "variant": 1,
+      "audio": "p07_15a_anti-freeze.mp3"
+    },
+    {
+      "entry_index": 165,
+      "page": 7,
+      "number": 15,
+      "source_headword": "anti-freeze/antifreeze",
+      "pronunciation": "antifreeze",
+      "speech_text": "antifreeze",
+      "variant": 2,
+      "audio": "p07_15b_antifreeze.mp3"
+    },
+    {
+      "entry_index": 166,
+      "page": 7,
+      "number": 16,
+      "source_headword": "Improvement",
+      "pronunciation": "Improvement",
+      "speech_text": "Improvement",
+      "variant": 1,
+      "audio": "p07_16_improvement.mp3"
+    },
+    {
+      "entry_index": 167,
+      "page": 7,
+      "number": 17,
+      "source_headword": "coastlines",
+      "pronunciation": "coastlines",
+      "speech_text": "coastlines",
+      "variant": 1,
+      "audio": "p07_17_coastlines.mp3"
+    },
+    {
+      "entry_index": 168,
+      "page": 7,
+      "number": 18,
+      "source_headword": "dates",
+      "pronunciation": "dates",
+      "speech_text": "dates",
+      "variant": 1,
+      "audio": "p07_18_dates.mp3"
+    },
+    {
+      "entry_index": 169,
+      "page": 7,
+      "number": 19,
+      "source_headword": "toys",
+      "pronunciation": "toys",
+      "speech_text": "toys",
+      "variant": 1,
+      "audio": "p07_19_toys.mp3"
+    },
+    {
+      "entry_index": 170,
+      "page": 7,
+      "number": 20,
+      "source_headword": "Infection",
+      "pronunciation": "Infection",
+      "speech_text": "Infection",
+      "variant": 1,
+      "audio": "p07_20_infection.mp3"
+    },
+    {
+      "entry_index": 171,
+      "page": 7,
+      "number": 21,
+      "source_headword": "stone",
+      "pronunciation": "stone",
+      "speech_text": "stone",
+      "variant": 1,
+      "audio": "p07_21_stone.mp3"
+    },
+    {
+      "entry_index": 172,
+      "page": 7,
+      "number": 22,
+      "source_headword": "Advertise",
+      "pronunciation": "Advertise",
+      "speech_text": "Advertise",
+      "variant": 1,
+      "audio": "p07_22_advertise.mp3"
+    },
+    {
+      "entry_index": 173,
+      "page": 7,
+      "number": 23,
+      "source_headword": "Tourists",
+      "pronunciation": "Tourists",
+      "speech_text": "Tourists",
+      "variant": 1,
+      "audio": "p07_23_tourists.mp3"
+    },
+    {
+      "entry_index": 174,
+      "page": 7,
+      "number": 24,
+      "source_headword": "claws",
+      "pronunciation": "claws",
+      "speech_text": "claws",
+      "variant": 1,
+      "audio": "p07_24_claws.mp3"
+    },
+    {
+      "entry_index": 175,
+      "page": 7,
+      "number": 25,
+      "source_headword": "right",
+      "pronunciation": "right",
+      "speech_text": "right",
+      "variant": 1,
+      "audio": "p07_25_right.mp3"
+    },
+    {
+      "entry_index": 176,
+      "page": 8,
+      "number": 1,
+      "source_headword": "tires/tyres",
+      "pronunciation": "tires",
+      "speech_text": "tires",
+      "variant": 1,
+      "audio": "p08_01a_tires.mp3"
+    },
+    {
+      "entry_index": 176,
+      "page": 8,
+      "number": 1,
+      "source_headword": "tires/tyres",
+      "pronunciation": "tyres",
+      "speech_text": "tyres",
+      "variant": 2,
+      "audio": "p08_01b_tyres.mp3"
+    },
+    {
+      "entry_index": 177,
+      "page": 8,
+      "number": 2,
+      "source_headword": "connected",
+      "pronunciation": "connected",
+      "speech_text": "connected",
+      "variant": 1,
+      "audio": "p08_02_connected.mp3"
+    },
+    {
+      "entry_index": 178,
+      "page": 8,
+      "number": 3,
+      "source_headword": "hospitality",
+      "pronunciation": "hospitality",
+      "speech_text": "hospitality",
+      "variant": 1,
+      "audio": "p08_03_hospitality.mp3"
+    },
+    {
+      "entry_index": 179,
+      "page": 8,
+      "number": 4,
+      "source_headword": "Client engineer",
+      "pronunciation": "Client engineer",
+      "speech_text": "Client engineer",
+      "variant": 1,
+      "audio": "p08_04_client-engineer.mp3"
+    },
+    {
+      "entry_index": 180,
+      "page": 8,
+      "number": 5,
+      "source_headword": "beach",
+      "pronunciation": "beach",
+      "speech_text": "beach",
+      "variant": 1,
+      "audio": "p08_05_beach.mp3"
+    },
+    {
+      "entry_index": 181,
+      "page": 8,
+      "number": 6,
+      "source_headword": "equal",
+      "pronunciation": "equal",
+      "speech_text": "equal",
+      "variant": 1,
+      "audio": "p08_06_equal.mp3"
+    },
+    {
+      "entry_index": 182,
+      "page": 8,
+      "number": 7,
+      "source_headword": "zippers",
+      "pronunciation": "zippers",
+      "speech_text": "zippers",
+      "variant": 1,
+      "audio": "p08_07_zippers.mp3"
+    },
+    {
+      "entry_index": 183,
+      "page": 8,
+      "number": 8,
+      "source_headword": "Walkley",
+      "pronunciation": "Walkley",
+      "speech_text": "W A L K L E Y",
+      "variant": 1,
+      "audio": "p08_08_walkley.mp3"
+    },
+    {
+      "entry_index": 184,
+      "page": 8,
+      "number": 9,
+      "source_headword": "High",
+      "pronunciation": "High",
+      "speech_text": "H I G H",
+      "variant": 1,
+      "audio": "p08_09_high.mp3"
+    },
+    {
+      "entry_index": 185,
+      "page": 8,
+      "number": 10,
+      "source_headword": "coins",
+      "pronunciation": "coins",
+      "speech_text": "coins",
+      "variant": 1,
+      "audio": "p08_10_coins.mp3"
+    },
+    {
+      "entry_index": 186,
+      "page": 8,
+      "number": 11,
+      "source_headword": "maths/math/mathematics",
+      "pronunciation": "maths",
+      "speech_text": "maths",
+      "variant": 1,
+      "audio": "p08_11a_maths.mp3"
+    },
+    {
+      "entry_index": 186,
+      "page": 8,
+      "number": 11,
+      "source_headword": "maths/math/mathematics",
+      "pronunciation": "math",
+      "speech_text": "math",
+      "variant": 2,
+      "audio": "p08_11b_math.mp3"
+    },
+    {
+      "entry_index": 186,
+      "page": 8,
+      "number": 11,
+      "source_headword": "maths/math/mathematics",
+      "pronunciation": "mathematics",
+      "speech_text": "mathematics",
+      "variant": 3,
+      "audio": "p08_11c_mathematics.mp3"
+    },
+    {
+      "entry_index": 187,
+      "page": 8,
+      "number": 12,
+      "source_headword": "cake",
+      "pronunciation": "cake",
+      "speech_text": "cake",
+      "variant": 1,
+      "audio": "p08_12_cake.mp3"
+    },
+    {
+      "entry_index": 188,
+      "page": 8,
+      "number": 13,
+      "source_headword": "Camel",
+      "pronunciation": "Camel",
+      "speech_text": "Camel",
+      "variant": 1,
+      "audio": "p08_13_camel.mp3"
+    },
+    {
+      "entry_index": 189,
+      "page": 8,
+      "number": 14,
+      "source_headword": "Tennis courts",
+      "pronunciation": "Tennis courts",
+      "speech_text": "Tennis courts",
+      "variant": 1,
+      "audio": "p08_14_tennis-courts.mp3"
+    },
+    {
+      "entry_index": 190,
+      "page": 8,
+      "number": 15,
+      "source_headword": "chemicals",
+      "pronunciation": "chemicals",
+      "speech_text": "chemicals",
+      "variant": 1,
+      "audio": "p08_15_chemicals.mp3"
+    },
+    {
+      "entry_index": 191,
+      "page": 8,
+      "number": 16,
+      "source_headword": "planning",
+      "pronunciation": "planning",
+      "speech_text": "planning",
+      "variant": 1,
+      "audio": "p08_16_planning.mp3"
+    },
+    {
+      "entry_index": 192,
+      "page": 8,
+      "number": 17,
+      "source_headword": "Home Welcome",
+      "pronunciation": "Home Welcome",
+      "speech_text": "Home Welcome",
+      "variant": 1,
+      "audio": "p08_17_home-welcome.mp3"
+    },
+    {
+      "entry_index": 193,
+      "page": 8,
+      "number": 18,
+      "source_headword": "tradition",
+      "pronunciation": "tradition",
+      "speech_text": "tradition",
+      "variant": 1,
+      "audio": "p08_18_tradition.mp3"
+    },
+    {
+      "entry_index": 194,
+      "page": 8,
+      "number": 19,
+      "source_headword": "caravan",
+      "pronunciation": "caravan",
+      "speech_text": "caravan",
+      "variant": 1,
+      "audio": "p08_19_caravan.mp3"
+    },
+    {
+      "entry_index": 195,
+      "page": 8,
+      "number": 20,
+      "source_headword": "cakes",
+      "pronunciation": "cakes",
+      "speech_text": "cakes",
+      "variant": 1,
+      "audio": "p08_20_cakes.mp3"
+    },
+    {
+      "entry_index": 196,
+      "page": 8,
+      "number": 21,
+      "source_headword": "six",
+      "pronunciation": "six",
+      "speech_text": "six",
+      "variant": 1,
+      "audio": "p08_21_six.mp3"
+    },
+    {
+      "entry_index": 197,
+      "page": 8,
+      "number": 22,
+      "source_headword": "layout",
+      "pronunciation": "layout",
+      "speech_text": "layout",
+      "variant": 1,
+      "audio": "p08_22_layout.mp3"
+    },
+    {
+      "entry_index": 198,
+      "page": 8,
+      "number": 23,
+      "source_headword": "ears/hearing",
+      "pronunciation": "ears",
+      "speech_text": "ears",
+      "variant": 1,
+      "audio": "p08_23a_ears.mp3"
+    },
+    {
+      "entry_index": 198,
+      "page": 8,
+      "number": 23,
+      "source_headword": "ears/hearing",
+      "pronunciation": "hearing",
+      "speech_text": "hearing",
+      "variant": 2,
+      "audio": "p08_23b_hearing.mp3"
+    },
+    {
+      "entry_index": 199,
+      "page": 8,
+      "number": 24,
+      "source_headword": "Varied",
+      "pronunciation": "Varied",
+      "speech_text": "Varied",
+      "variant": 1,
+      "audio": "p08_24_varied.mp3"
+    },
+    {
+      "entry_index": 200,
+      "page": 8,
+      "number": 25,
+      "source_headword": "gold",
+      "pronunciation": "gold",
+      "speech_text": "gold",
+      "variant": 1,
+      "audio": "p08_25_gold.mp3"
+    },
+    {
+      "entry_index": 201,
+      "page": 9,
+      "number": 1,
+      "source_headword": "silk",
+      "pronunciation": "silk",
+      "speech_text": "silk",
+      "variant": 1,
+      "audio": "p09_01_silk.mp3"
+    },
+    {
+      "entry_index": 202,
+      "page": 9,
+      "number": 2,
+      "source_headword": "unnatural",
+      "pronunciation": "unnatural",
+      "speech_text": "unnatural",
+      "variant": 1,
+      "audio": "p09_02_unnatural.mp3"
+    },
+    {
+      "entry_index": 203,
+      "page": 9,
+      "number": 3,
+      "source_headword": "tunnel",
+      "pronunciation": "tunnel",
+      "speech_text": "tunnel",
+      "variant": 1,
+      "audio": "p09_03_tunnel.mp3"
+    },
+    {
+      "entry_index": 204,
+      "page": 9,
+      "number": 4,
+      "source_headword": "typing",
+      "pronunciation": "typing",
+      "speech_text": "typing",
+      "variant": 1,
+      "audio": "p09_04_typing.mp3"
+    },
+    {
+      "entry_index": 205,
+      "page": 9,
+      "number": 5,
+      "source_headword": "shipping",
+      "pronunciation": "shipping",
+      "speech_text": "shipping",
+      "variant": 1,
+      "audio": "p09_05_shipping.mp3"
+    },
+    {
+      "entry_index": 206,
+      "page": 9,
+      "number": 6,
+      "source_headword": "Mathematics/math/maths",
+      "pronunciation": "Mathematics",
+      "speech_text": "Mathematics",
+      "variant": 1,
+      "audio": "p09_06a_mathematics.mp3"
+    },
+    {
+      "entry_index": 206,
+      "page": 9,
+      "number": 6,
+      "source_headword": "Mathematics/math/maths",
+      "pronunciation": "math",
+      "speech_text": "math",
+      "variant": 2,
+      "audio": "p09_06b_math.mp3"
+    },
+    {
+      "entry_index": 206,
+      "page": 9,
+      "number": 6,
+      "source_headword": "Mathematics/math/maths",
+      "pronunciation": "maths",
+      "speech_text": "maths",
+      "variant": 3,
+      "audio": "p09_06c_maths.mp3"
+    },
+    {
+      "entry_index": 207,
+      "page": 9,
+      "number": 7,
+      "source_headword": "gases",
+      "pronunciation": "gases",
+      "speech_text": "gases",
+      "variant": 1,
+      "audio": "p09_07_gases.mp3"
+    },
+    {
+      "entry_index": 208,
+      "page": 9,
+      "number": 8,
+      "source_headword": "critical",
+      "pronunciation": "critical",
+      "speech_text": "critical",
+      "variant": 1,
+      "audio": "p09_08_critical.mp3"
+    },
+    {
+      "entry_index": 209,
+      "page": 9,
+      "number": 9,
+      "source_headword": "Switched off",
+      "pronunciation": "Switched off",
+      "speech_text": "Switched off",
+      "variant": 1,
+      "audio": "p09_09_switched-off.mp3"
+    },
+    {
+      "entry_index": 210,
+      "page": 9,
+      "number": 10,
+      "source_headword": "Donkey",
+      "pronunciation": "Donkey",
+      "speech_text": "Donkey",
+      "variant": 1,
+      "audio": "p09_10_donkey.mp3"
+    },
+    {
+      "entry_index": 211,
+      "page": 9,
+      "number": 11,
+      "source_headword": "instinctive",
+      "pronunciation": "instinctive",
+      "speech_text": "instinctive",
+      "variant": 1,
+      "audio": "p09_11_instinctive.mp3"
+    },
+    {
+      "entry_index": 212,
+      "page": 9,
+      "number": 12,
+      "source_headword": "invitations",
+      "pronunciation": "invitations",
+      "speech_text": "invitations",
+      "variant": 1,
+      "audio": "p09_12_invitations.mp3"
+    },
+    {
+      "entry_index": 213,
+      "page": 9,
+      "number": 13,
+      "source_headword": "write",
+      "pronunciation": "write",
+      "speech_text": "write",
+      "variant": 1,
+      "audio": "p09_13_write.mp3"
+    },
+    {
+      "entry_index": 214,
+      "page": 9,
+      "number": 14,
+      "source_headword": "Massage",
+      "pronunciation": "Massage",
+      "speech_text": "Massage",
+      "variant": 1,
+      "audio": "p09_14_massage.mp3"
+    },
+    {
+      "entry_index": 215,
+      "page": 9,
+      "number": 15,
+      "source_headword": "GERALD",
+      "pronunciation": "GERALD",
+      "speech_text": "G E R A L D",
+      "variant": 1,
+      "audio": "p09_15_gerald.mp3"
+    },
+    {
+      "entry_index": 216,
+      "page": 9,
+      "number": 16,
+      "source_headword": "weeds",
+      "pronunciation": "weeds",
+      "speech_text": "weeds",
+      "variant": 1,
+      "audio": "p09_16_weeds.mp3"
+    },
+    {
+      "entry_index": 217,
+      "page": 9,
+      "number": 17,
+      "source_headword": "exercise",
+      "pronunciation": "exercise",
+      "speech_text": "exercise",
+      "variant": 1,
+      "audio": "p09_17_exercise.mp3"
+    },
+    {
+      "entry_index": 218,
+      "page": 9,
+      "number": 18,
+      "source_headword": "dishwasher",
+      "pronunciation": "dishwasher",
+      "speech_text": "dishwasher",
+      "variant": 1,
+      "audio": "p09_18_dishwasher.mp3"
+    },
+    {
+      "entry_index": 219,
+      "page": 9,
+      "number": 19,
+      "source_headword": "beer",
+      "pronunciation": "beer",
+      "speech_text": "beer",
+      "variant": 1,
+      "audio": "p09_19_beer.mp3"
+    },
+    {
+      "entry_index": 220,
+      "page": 9,
+      "number": 20,
+      "source_headword": "medical",
+      "pronunciation": "medical",
+      "speech_text": "medical",
+      "variant": 1,
+      "audio": "p09_20_medical.mp3"
+    },
+    {
+      "entry_index": 221,
+      "page": 9,
+      "number": 21,
+      "source_headword": "sculpture",
+      "pronunciation": "sculpture",
+      "speech_text": "sculpture",
+      "variant": 1,
+      "audio": "p09_21_sculpture.mp3"
+    },
+    {
+      "entry_index": 222,
+      "page": 9,
+      "number": 22,
+      "source_headword": "ice pack",
+      "pronunciation": "ice pack",
+      "speech_text": "ice pack",
+      "variant": 1,
+      "audio": "p09_22_ice-pack.mp3"
+    },
+    {
+      "entry_index": 223,
+      "page": 9,
+      "number": 23,
+      "source_headword": "energy",
+      "pronunciation": "energy",
+      "speech_text": "energy",
+      "variant": 1,
+      "audio": "p09_23_energy.mp3"
+    },
+    {
+      "entry_index": 224,
+      "page": 9,
+      "number": 24,
+      "source_headword": "cracks",
+      "pronunciation": "cracks",
+      "speech_text": "cracks",
+      "variant": 1,
+      "audio": "p09_24_cracks.mp3"
+    },
+    {
+      "entry_index": 225,
+      "page": 9,
+      "number": 25,
+      "source_headword": "cargo",
+      "pronunciation": "cargo",
+      "speech_text": "cargo",
+      "variant": 1,
+      "audio": "p09_25_cargo.mp3"
+    },
+    {
+      "entry_index": 226,
+      "page": 10,
+      "number": 1,
+      "source_headword": "Middle Street",
+      "pronunciation": "Middle Street",
+      "speech_text": "Middle Street",
+      "variant": 1,
+      "audio": "p10_01_middle-street.mp3"
+    },
+    {
+      "entry_index": 227,
+      "page": 10,
+      "number": 2,
+      "source_headword": "menu",
+      "pronunciation": "menu",
+      "speech_text": "menu",
+      "variant": 1,
+      "audio": "p10_02_menu.mp3"
+    },
+    {
+      "entry_index": 228,
+      "page": 10,
+      "number": 3,
+      "source_headword": "exhibitions",
+      "pronunciation": "exhibitions",
+      "speech_text": "exhibitions",
+      "variant": 1,
+      "audio": "p10_03_exhibitions.mp3"
+    },
+    {
+      "entry_index": 229,
+      "page": 10,
+      "number": 4,
+      "source_headword": "gas",
+      "pronunciation": "gas",
+      "speech_text": "gas",
+      "variant": 1,
+      "audio": "p10_04_gas.mp3"
+    },
+    {
+      "entry_index": 230,
+      "page": 10,
+      "number": 5,
+      "source_headword": "five hours",
+      "pronunciation": "five hours",
+      "speech_text": "five hours",
+      "variant": 1,
+      "audio": "p10_05_five-hours.mp3"
+    },
+    {
+      "entry_index": 231,
+      "page": 10,
+      "number": 6,
+      "source_headword": "Essays",
+      "pronunciation": "Essays",
+      "speech_text": "Essays",
+      "variant": 1,
+      "audio": "p10_06_essays.mp3"
+    },
+    {
+      "entry_index": 232,
+      "page": 10,
+      "number": 7,
+      "source_headword": "Rooftop",
+      "pronunciation": "Rooftop",
+      "speech_text": "Rooftop",
+      "variant": 1,
+      "audio": "p10_07_rooftop.mp3"
+    },
+    {
+      "entry_index": 233,
+      "page": 10,
+      "number": 8,
+      "source_headword": "timber",
+      "pronunciation": "timber",
+      "speech_text": "timber",
+      "variant": 1,
+      "audio": "p10_08_timber.mp3"
+    },
+    {
+      "entry_index": 234,
+      "page": 10,
+      "number": 9,
+      "source_headword": "Dried",
+      "pronunciation": "Dried",
+      "speech_text": "Dried",
+      "variant": 1,
+      "audio": "p10_09_dried.mp3"
+    },
+    {
+      "entry_index": 235,
+      "page": 10,
+      "number": 10,
+      "source_headword": "singing",
+      "pronunciation": "singing",
+      "speech_text": "singing",
+      "variant": 1,
+      "audio": "p10_10_singing.mp3"
+    },
+    {
+      "entry_index": 236,
+      "page": 10,
+      "number": 11,
+      "source_headword": "Bird-watching/Birdwatching",
+      "pronunciation": "Bird-watching",
+      "speech_text": "Bird-watching",
+      "variant": 1,
+      "audio": "p10_11a_bird-watching.mp3"
+    },
+    {
+      "entry_index": 236,
+      "page": 10,
+      "number": 11,
+      "source_headword": "Bird-watching/Birdwatching",
+      "pronunciation": "Birdwatching",
+      "speech_text": "Birdwatching",
+      "variant": 2,
+      "audio": "p10_11b_birdwatching.mp3"
+    },
+    {
+      "entry_index": 237,
+      "page": 10,
+      "number": 12,
+      "source_headword": "religion",
+      "pronunciation": "religion",
+      "speech_text": "religion",
+      "variant": 1,
+      "audio": "p10_12_religion.mp3"
+    },
+    {
+      "entry_index": 238,
+      "page": 10,
+      "number": 13,
+      "source_headword": "Volcano",
+      "pronunciation": "Volcano",
+      "speech_text": "Volcano",
+      "variant": 1,
+      "audio": "p10_13_volcano.mp3"
+    },
+    {
+      "entry_index": 239,
+      "page": 10,
+      "number": 14,
+      "source_headword": "traditional",
+      "pronunciation": "traditional",
+      "speech_text": "traditional",
+      "variant": 1,
+      "audio": "p10_14_traditional.mp3"
+    },
+    {
+      "entry_index": 240,
+      "page": 10,
+      "number": 15,
+      "source_headword": "steel",
+      "pronunciation": "steel",
+      "speech_text": "steel",
+      "variant": 1,
+      "audio": "p10_15_steel.mp3"
+    },
+    {
+      "entry_index": 241,
+      "page": 10,
+      "number": 16,
+      "source_headword": "sharks",
+      "pronunciation": "sharks",
+      "speech_text": "sharks",
+      "variant": 1,
+      "audio": "p10_16_sharks.mp3"
+    },
+    {
+      "entry_index": 242,
+      "page": 10,
+      "number": 17,
+      "source_headword": "recycling",
+      "pronunciation": "recycling",
+      "speech_text": "recycling",
+      "variant": 1,
+      "audio": "p10_17_recycling.mp3"
+    },
+    {
+      "entry_index": 243,
+      "page": 10,
+      "number": 18,
+      "source_headword": "Emotional",
+      "pronunciation": "Emotional",
+      "speech_text": "Emotional",
+      "variant": 1,
+      "audio": "p10_18_emotional.mp3"
+    },
+    {
+      "entry_index": 244,
+      "page": 10,
+      "number": 19,
+      "source_headword": "Covering",
+      "pronunciation": "Covering",
+      "speech_text": "Covering",
+      "variant": 1,
+      "audio": "p10_19_covering.mp3"
+    },
+    {
+      "entry_index": 245,
+      "page": 10,
+      "number": 20,
+      "source_headword": "eighty-five",
+      "pronunciation": "eighty-five",
+      "speech_text": "eighty-five",
+      "variant": 1,
+      "audio": "p10_20_eighty-five.mp3"
+    },
+    {
+      "entry_index": 246,
+      "page": 10,
+      "number": 21,
+      "source_headword": "handle",
+      "pronunciation": "handle",
+      "speech_text": "handle",
+      "variant": 1,
+      "audio": "p10_21_handle.mp3"
+    },
+    {
+      "entry_index": 247,
+      "page": 10,
+      "number": 22,
+      "source_headword": "microscope",
+      "pronunciation": "microscope",
+      "speech_text": "microscope",
+      "variant": 1,
+      "audio": "p10_22_microscope.mp3"
+    },
+    {
+      "entry_index": 248,
+      "page": 10,
+      "number": 23,
+      "source_headword": "classic",
+      "pronunciation": "classic",
+      "speech_text": "classic",
+      "variant": 1,
+      "audio": "p10_23_classic.mp3"
+    },
+    {
+      "entry_index": 249,
+      "page": 10,
+      "number": 24,
+      "source_headword": "Asia/Japan",
+      "pronunciation": "Asia",
+      "speech_text": "Asia",
+      "variant": 1,
+      "audio": "p10_24a_asia.mp3"
+    },
+    {
+      "entry_index": 249,
+      "page": 10,
+      "number": 24,
+      "source_headword": "Asia/Japan",
+      "pronunciation": "Japan",
+      "speech_text": "Japan",
+      "variant": 2,
+      "audio": "p10_24b_japan.mp3"
+    },
+    {
+      "entry_index": 250,
+      "page": 10,
+      "number": 25,
+      "source_headword": "Process",
+      "pronunciation": "Process",
+      "speech_text": "Process",
+      "variant": 1,
+      "audio": "p10_25_process.mp3"
+    },
+    {
+      "entry_index": 251,
+      "page": 11,
+      "number": 1,
+      "source_headword": "journalist",
+      "pronunciation": "journalist",
+      "speech_text": "journalist",
+      "variant": 1,
+      "audio": "p11_01_journalist.mp3"
+    },
+    {
+      "entry_index": 252,
+      "page": 11,
+      "number": 2,
+      "source_headword": "Government/the government",
+      "pronunciation": "Government",
+      "speech_text": "Government",
+      "variant": 1,
+      "audio": "p11_02a_government.mp3"
+    },
+    {
+      "entry_index": 252,
+      "page": 11,
+      "number": 2,
+      "source_headword": "Government/the government",
+      "pronunciation": "the government",
+      "speech_text": "the government",
+      "variant": 2,
+      "audio": "p11_02b_the-government.mp3"
+    },
+    {
+      "entry_index": 253,
+      "page": 11,
+      "number": 3,
+      "source_headword": "aging",
+      "pronunciation": "aging",
+      "speech_text": "aging",
+      "variant": 1,
+      "audio": "p11_03_aging.mp3"
+    },
+    {
+      "entry_index": 254,
+      "page": 11,
+      "number": 4,
+      "source_headword": "hospital",
+      "pronunciation": "hospital",
+      "speech_text": "hospital",
+      "variant": 1,
+      "audio": "p11_04_hospital.mp3"
+    },
+    {
+      "entry_index": 255,
+      "page": 11,
+      "number": 5,
+      "source_headword": "More elastic",
+      "pronunciation": "More elastic",
+      "speech_text": "More elastic",
+      "variant": 1,
+      "audio": "p11_05_more-elastic.mp3"
+    },
+    {
+      "entry_index": 256,
+      "page": 11,
+      "number": 6,
+      "source_headword": "quality customer/customer",
+      "pronunciation": "quality customer",
+      "speech_text": "quality customer",
+      "variant": 1,
+      "audio": "p11_06a_quality-customer.mp3"
+    },
+    {
+      "entry_index": 256,
+      "page": 11,
+      "number": 6,
+      "source_headword": "quality customer/customer",
+      "pronunciation": "customer",
+      "speech_text": "customer",
+      "variant": 2,
+      "audio": "p11_06b_customer.mp3"
+    },
+    {
+      "entry_index": 257,
+      "page": 11,
+      "number": 7,
+      "source_headword": "digestive",
+      "pronunciation": "digestive",
+      "speech_text": "digestive",
+      "variant": 1,
+      "audio": "p11_07_digestive.mp3"
+    },
+    {
+      "entry_index": 258,
+      "page": 11,
+      "number": 8,
+      "source_headword": "six months",
+      "pronunciation": "six months",
+      "speech_text": "six months",
+      "variant": 1,
+      "audio": "p11_08_six-months.mp3"
+    },
+    {
+      "entry_index": 259,
+      "page": 11,
+      "number": 9,
+      "source_headword": "carbon dioxide",
+      "pronunciation": "carbon dioxide",
+      "speech_text": "carbon dioxide",
+      "variant": 1,
+      "audio": "p11_09_carbon-dioxide.mp3"
+    },
+    {
+      "entry_index": 260,
+      "page": 11,
+      "number": 10,
+      "source_headword": "horizontal",
+      "pronunciation": "horizontal",
+      "speech_text": "horizontal",
+      "variant": 1,
+      "audio": "p11_10_horizontal.mp3"
+    },
+    {
+      "entry_index": 261,
+      "page": 11,
+      "number": 11,
+      "source_headword": "microwave",
+      "pronunciation": "microwave",
+      "speech_text": "microwave",
+      "variant": 1,
+      "audio": "p11_11_microwave.mp3"
+    },
+    {
+      "entry_index": 262,
+      "page": 11,
+      "number": 12,
+      "source_headword": "sample",
+      "pronunciation": "sample",
+      "speech_text": "sample",
+      "variant": 1,
+      "audio": "p11_12_sample.mp3"
+    },
+    {
+      "entry_index": 263,
+      "page": 11,
+      "number": 13,
+      "source_headword": "Tent",
+      "pronunciation": "Tent",
+      "speech_text": "Tent",
+      "variant": 1,
+      "audio": "p11_13_tent.mp3"
+    },
+    {
+      "entry_index": 264,
+      "page": 11,
+      "number": 14,
+      "source_headword": "technology",
+      "pronunciation": "technology",
+      "speech_text": "technology",
+      "variant": 1,
+      "audio": "p11_14_technology.mp3"
+    },
+    {
+      "entry_index": 265,
+      "page": 11,
+      "number": 15,
+      "source_headword": "Silence",
+      "pronunciation": "Silence",
+      "speech_text": "Silence",
+      "variant": 1,
+      "audio": "p11_15_silence.mp3"
+    },
+    {
+      "entry_index": 266,
+      "page": 11,
+      "number": 16,
+      "source_headword": "iron",
+      "pronunciation": "iron",
+      "speech_text": "iron",
+      "variant": 1,
+      "audio": "p11_16_iron.mp3"
+    },
+    {
+      "entry_index": 267,
+      "page": 11,
+      "number": 17,
+      "source_headword": "friction",
+      "pronunciation": "friction",
+      "speech_text": "friction",
+      "variant": 1,
+      "audio": "p11_17_friction.mp3"
+    },
+    {
+      "entry_index": 268,
+      "page": 11,
+      "number": 18,
+      "source_headword": "nine months",
+      "pronunciation": "nine months",
+      "speech_text": "nine months",
+      "variant": 1,
+      "audio": "p11_18_nine-months.mp3"
+    },
+    {
+      "entry_index": 269,
+      "page": 11,
+      "number": 19,
+      "source_headword": "leak",
+      "pronunciation": "leak",
+      "speech_text": "leak",
+      "variant": 1,
+      "audio": "p11_19_leak.mp3"
+    },
+    {
+      "entry_index": 270,
+      "page": 11,
+      "number": 20,
+      "source_headword": "Mapping",
+      "pronunciation": "Mapping",
+      "speech_text": "Mapping",
+      "variant": 1,
+      "audio": "p11_20_mapping.mp3"
+    },
+    {
+      "entry_index": 271,
+      "page": 11,
+      "number": 21,
+      "source_headword": "rubber wheels",
+      "pronunciation": "rubber wheels",
+      "speech_text": "rubber wheels",
+      "variant": 1,
+      "audio": "p11_21_rubber-wheels.mp3"
+    },
+    {
+      "entry_index": 272,
+      "page": 11,
+      "number": 22,
+      "source_headword": "Curtis",
+      "pronunciation": "Curtis",
+      "speech_text": "C U R T I S",
+      "variant": 1,
+      "audio": "p11_22_curtis.mp3"
+    },
+    {
+      "entry_index": 273,
+      "page": 11,
+      "number": 23,
+      "source_headword": "Thunder",
+      "pronunciation": "Thunder",
+      "speech_text": "Thunder",
+      "variant": 1,
+      "audio": "p11_23_thunder.mp3"
+    },
+    {
+      "entry_index": 274,
+      "page": 11,
+      "number": 24,
+      "source_headword": "sunlight",
+      "pronunciation": "sunlight",
+      "speech_text": "sunlight",
+      "variant": 1,
+      "audio": "p11_24_sunlight.mp3"
+    },
+    {
+      "entry_index": 275,
+      "page": 11,
+      "number": 25,
+      "source_headword": "paint",
+      "pronunciation": "paint",
+      "speech_text": "paint",
+      "variant": 1,
+      "audio": "p11_25_paint.mp3"
+    },
+    {
+      "entry_index": 276,
+      "page": 12,
+      "number": 1,
+      "source_headword": "presents",
+      "pronunciation": "presents",
+      "speech_text": "presents",
+      "variant": 1,
+      "audio": "p12_01_presents.mp3"
+    },
+    {
+      "entry_index": 277,
+      "page": 12,
+      "number": 2,
+      "source_headword": "antibiotic",
+      "pronunciation": "antibiotic",
+      "speech_text": "antibiotic",
+      "variant": 1,
+      "audio": "p12_02_antibiotic.mp3"
+    },
+    {
+      "entry_index": 278,
+      "page": 12,
+      "number": 3,
+      "source_headword": "solution",
+      "pronunciation": "solution",
+      "speech_text": "solution",
+      "variant": 1,
+      "audio": "p12_03_solution.mp3"
+    },
+    {
+      "entry_index": 279,
+      "page": 12,
+      "number": 4,
+      "source_headword": "notebook",
+      "pronunciation": "notebook",
+      "speech_text": "notebook",
+      "variant": 1,
+      "audio": "p12_04_notebook.mp3"
+    },
+    {
+      "entry_index": 280,
+      "page": 12,
+      "number": 5,
+      "source_headword": "Lamb",
+      "pronunciation": "Lamb",
+      "speech_text": "Lamb",
+      "variant": 1,
+      "audio": "p12_05_lamb.mp3"
+    },
+    {
+      "entry_index": 281,
+      "page": 12,
+      "number": 6,
+      "source_headword": "Homes",
+      "pronunciation": "Homes",
+      "speech_text": "Homes",
+      "variant": 1,
+      "audio": "p12_06_homes.mp3"
+    },
+    {
+      "entry_index": 282,
+      "page": 12,
+      "number": 7,
+      "source_headword": "White Mountain",
+      "pronunciation": "White Mountain",
+      "speech_text": "White Mountain",
+      "variant": 1,
+      "audio": "p12_07_white-mountain.mp3"
+    },
+    {
+      "entry_index": 283,
+      "page": 12,
+      "number": 8,
+      "source_headword": "Deposit/A deposit",
+      "pronunciation": "Deposit",
+      "speech_text": "Deposit",
+      "variant": 1,
+      "audio": "p12_08a_deposit.mp3"
+    },
+    {
+      "entry_index": 283,
+      "page": 12,
+      "number": 8,
+      "source_headword": "Deposit/A deposit",
+      "pronunciation": "A deposit",
+      "speech_text": "A deposit",
+      "variant": 2,
+      "audio": "p12_08b_a-deposit.mp3"
+    },
+    {
+      "entry_index": 284,
+      "page": 12,
+      "number": 9,
+      "source_headword": "ASCOT",
+      "pronunciation": "ASCOT",
+      "speech_text": "ASCOT",
+      "variant": 1,
+      "audio": "p12_09_ascot.mp3"
+    },
+    {
+      "entry_index": 285,
+      "page": 12,
+      "number": 10,
+      "source_headword": "Tents",
+      "pronunciation": "Tents",
+      "speech_text": "Tents",
+      "variant": 1,
+      "audio": "p12_10_tents.mp3"
+    },
+    {
+      "entry_index": 286,
+      "page": 12,
+      "number": 11,
+      "source_headword": "transport",
+      "pronunciation": "transport",
+      "speech_text": "transport",
+      "variant": 1,
+      "audio": "p12_11_transport.mp3"
+    },
+    {
+      "entry_index": 287,
+      "page": 12,
+      "number": 12,
+      "source_headword": "Extinction",
+      "pronunciation": "Extinction",
+      "speech_text": "Extinction",
+      "variant": 1,
+      "audio": "p12_12_extinction.mp3"
+    },
+    {
+      "entry_index": 288,
+      "page": 12,
+      "number": 13,
+      "source_headword": "spring",
+      "pronunciation": "spring",
+      "speech_text": "spring",
+      "variant": 1,
+      "audio": "p12_13_spring.mp3"
+    },
+    {
+      "entry_index": 289,
+      "page": 12,
+      "number": 14,
+      "source_headword": "golf",
+      "pronunciation": "golf",
+      "speech_text": "golf",
+      "variant": 1,
+      "audio": "p12_14_golf.mp3"
+    },
+    {
+      "entry_index": 290,
+      "page": 12,
+      "number": 15,
+      "source_headword": "reduction",
+      "pronunciation": "reduction",
+      "speech_text": "reduction",
+      "variant": 1,
+      "audio": "p12_15_reduction.mp3"
+    },
+    {
+      "entry_index": 291,
+      "page": 12,
+      "number": 16,
+      "source_headword": "Gray/Grey",
+      "pronunciation": "Gray",
+      "speech_text": "Gray",
+      "variant": 1,
+      "audio": "p12_16a_gray.mp3"
+    },
+    {
+      "entry_index": 291,
+      "page": 12,
+      "number": 16,
+      "source_headword": "Gray/Grey",
+      "pronunciation": "Grey",
+      "speech_text": "Grey",
+      "variant": 2,
+      "audio": "p12_16b_grey.mp3"
+    },
+    {
+      "entry_index": 292,
+      "page": 12,
+      "number": 17,
+      "source_headword": "microscopes",
+      "pronunciation": "microscopes",
+      "speech_text": "microscopes",
+      "variant": 1,
+      "audio": "p12_17_microscopes.mp3"
+    },
+    {
+      "entry_index": 293,
+      "page": 12,
+      "number": 18,
+      "source_headword": "Flexible",
+      "pronunciation": "Flexible",
+      "speech_text": "Flexible",
+      "variant": 1,
+      "audio": "p12_18_flexible.mp3"
+    },
+    {
+      "entry_index": 294,
+      "page": 12,
+      "number": 19,
+      "source_headword": "corn",
+      "pronunciation": "corn",
+      "speech_text": "corn",
+      "variant": 1,
+      "audio": "p12_19_corn.mp3"
+    },
+    {
+      "entry_index": 295,
+      "page": 12,
+      "number": 20,
+      "source_headword": "Jungle",
+      "pronunciation": "Jungle",
+      "speech_text": "Jungle",
+      "variant": 1,
+      "audio": "p12_20_jungle.mp3"
+    },
+    {
+      "entry_index": 296,
+      "page": 12,
+      "number": 21,
+      "source_headword": "Weather conditions",
+      "pronunciation": "Weather conditions",
+      "speech_text": "Weather conditions",
+      "variant": 1,
+      "audio": "p12_21_weather-conditions.mp3"
+    },
+    {
+      "entry_index": 297,
+      "page": 12,
+      "number": 22,
+      "source_headword": "fabric",
+      "pronunciation": "fabric",
+      "speech_text": "fabric",
+      "variant": 1,
+      "audio": "p12_22_fabric.mp3"
+    },
+    {
+      "entry_index": 298,
+      "page": 12,
+      "number": 23,
+      "source_headword": "scientists",
+      "pronunciation": "scientists",
+      "speech_text": "scientists",
+      "variant": 1,
+      "audio": "p12_23_scientists.mp3"
+    },
+    {
+      "entry_index": 299,
+      "page": 12,
+      "number": 24,
+      "source_headword": "Photography",
+      "pronunciation": "Photography",
+      "speech_text": "Photography",
+      "variant": 1,
+      "audio": "p12_24_photography.mp3"
+    },
+    {
+      "entry_index": 300,
+      "page": 12,
+      "number": 25,
+      "source_headword": "workers",
+      "pronunciation": "workers",
+      "speech_text": "workers",
+      "variant": 1,
+      "audio": "p12_25_workers.mp3"
+    },
+    {
+      "entry_index": 301,
+      "page": 13,
+      "number": 1,
+      "source_headword": "Reason",
+      "pronunciation": "Reason",
+      "speech_text": "Reason",
+      "variant": 1,
+      "audio": "p13_01_reason.mp3"
+    },
+    {
+      "entry_index": 302,
+      "page": 13,
+      "number": 2,
+      "source_headword": "shore",
+      "pronunciation": "shore",
+      "speech_text": "shore",
+      "variant": 1,
+      "audio": "p13_02_shore.mp3"
+    },
+    {
+      "entry_index": 303,
+      "page": 13,
+      "number": 3,
+      "source_headword": "lizard",
+      "pronunciation": "lizard",
+      "speech_text": "lizard",
+      "variant": 1,
+      "audio": "p13_03_lizard.mp3"
+    },
+    {
+      "entry_index": 304,
+      "page": 13,
+      "number": 4,
+      "source_headword": "coin",
+      "pronunciation": "coin",
+      "speech_text": "coin",
+      "variant": 1,
+      "audio": "p13_04_coin.mp3"
+    },
+    {
+      "entry_index": 305,
+      "page": 13,
+      "number": 5,
+      "source_headword": "shallow",
+      "pronunciation": "shallow",
+      "speech_text": "shallow",
+      "variant": 1,
+      "audio": "p13_05_shallow.mp3"
+    },
+    {
+      "entry_index": 306,
+      "page": 13,
+      "number": 6,
+      "source_headword": "Time",
+      "pronunciation": "Time",
+      "speech_text": "Time",
+      "variant": 1,
+      "audio": "p13_06_time.mp3"
+    },
+    {
+      "entry_index": 307,
+      "page": 13,
+      "number": 7,
+      "source_headword": "grocery shopping",
+      "pronunciation": "grocery shopping",
+      "speech_text": "grocery shopping",
+      "variant": 1,
+      "audio": "p13_07_grocery-shopping.mp3"
+    },
+    {
+      "entry_index": 308,
+      "page": 13,
+      "number": 8,
+      "source_headword": "Cooperation",
+      "pronunciation": "Cooperation",
+      "speech_text": "Cooperation",
+      "variant": 1,
+      "audio": "p13_08_cooperation.mp3"
+    },
+    {
+      "entry_index": 309,
+      "page": 13,
+      "number": 9,
+      "source_headword": "Grain",
+      "pronunciation": "Grain",
+      "speech_text": "Grain",
+      "variant": 1,
+      "audio": "p13_09_grain.mp3"
+    },
+    {
+      "entry_index": 310,
+      "page": 13,
+      "number": 10,
+      "source_headword": "Arrows",
+      "pronunciation": "Arrows",
+      "speech_text": "Arrows",
+      "variant": 1,
+      "audio": "p13_10_arrows.mp3"
+    },
+    {
+      "entry_index": 311,
+      "page": 13,
+      "number": 11,
+      "source_headword": "bacteria",
+      "pronunciation": "bacteria",
+      "speech_text": "bacteria",
+      "variant": 1,
+      "audio": "p13_11_bacteria.mp3"
+    },
+    {
+      "entry_index": 312,
+      "page": 13,
+      "number": 12,
+      "source_headword": "Chart",
+      "pronunciation": "Chart",
+      "speech_text": "Chart",
+      "variant": 1,
+      "audio": "p13_12_chart.mp3"
+    },
+    {
+      "entry_index": 313,
+      "page": 13,
+      "number": 13,
+      "source_headword": "navigate",
+      "pronunciation": "navigate",
+      "speech_text": "navigate",
+      "variant": 1,
+      "audio": "p13_13_navigate.mp3"
+    },
+    {
+      "entry_index": 314,
+      "page": 13,
+      "number": 14,
+      "source_headword": "Elsinore",
+      "pronunciation": "Elsinore",
+      "speech_text": "Elsinore",
+      "variant": 1,
+      "audio": "p13_14_elsinore.mp3"
+    },
+    {
+      "entry_index": 315,
+      "page": 13,
+      "number": 15,
+      "source_headword": "Birth",
+      "pronunciation": "Birth",
+      "speech_text": "Birth",
+      "variant": 1,
+      "audio": "p13_15_birth.mp3"
+    },
+    {
+      "entry_index": 316,
+      "page": 13,
+      "number": 16,
+      "source_headword": "EURONTAS",
+      "pronunciation": "EURONTAS",
+      "speech_text": "EURONTAS",
+      "variant": 1,
+      "audio": "p13_16_eurontas.mp3"
+    },
+    {
+      "entry_index": 317,
+      "page": 13,
+      "number": 17,
+      "source_headword": "Reception",
+      "pronunciation": "Reception",
+      "speech_text": "Reception",
+      "variant": 1,
+      "audio": "p13_17_reception.mp3"
+    },
+    {
+      "entry_index": 318,
+      "page": 13,
+      "number": 18,
+      "source_headword": "swim",
+      "pronunciation": "swim",
+      "speech_text": "swim",
+      "variant": 1,
+      "audio": "p13_18_swim.mp3"
+    },
+    {
+      "entry_index": 319,
+      "page": 13,
+      "number": 19,
+      "source_headword": "direct",
+      "pronunciation": "direct",
+      "speech_text": "direct",
+      "variant": 1,
+      "audio": "p13_19_direct.mp3"
+    },
+    {
+      "entry_index": 320,
+      "page": 13,
+      "number": 20,
+      "source_headword": "testing",
+      "pronunciation": "testing",
+      "speech_text": "testing",
+      "variant": 1,
+      "audio": "p13_20_testing.mp3"
+    },
+    {
+      "entry_index": 321,
+      "page": 13,
+      "number": 21,
+      "source_headword": "Charlecote",
+      "pronunciation": "Charlecote",
+      "speech_text": "Charlecote",
+      "variant": 1,
+      "audio": "p13_21_charlecote.mp3"
+    },
+    {
+      "entry_index": 322,
+      "page": 13,
+      "number": 22,
+      "source_headword": "sight",
+      "pronunciation": "sight",
+      "speech_text": "sight",
+      "variant": 1,
+      "audio": "p13_22_sight.mp3"
+    },
+    {
+      "entry_index": 323,
+      "page": 13,
+      "number": 23,
+      "source_headword": "Dreams",
+      "pronunciation": "Dreams",
+      "speech_text": "Dreams",
+      "variant": 1,
+      "audio": "p13_23_dreams.mp3"
+    },
+    {
+      "entry_index": 324,
+      "page": 13,
+      "number": 24,
+      "source_headword": "Cliffton",
+      "pronunciation": "Cliffton",
+      "speech_text": "Cliffton",
+      "variant": 1,
+      "audio": "p13_24_cliffton.mp3"
+    },
+    {
+      "entry_index": 325,
+      "page": 13,
+      "number": 25,
+      "source_headword": "crack",
+      "pronunciation": "crack",
+      "speech_text": "crack",
+      "variant": 1,
+      "audio": "p13_25_crack.mp3"
+    },
+    {
+      "entry_index": 326,
+      "page": 14,
+      "number": 1,
+      "source_headword": "Foot",
+      "pronunciation": "Foot",
+      "speech_text": "Foot",
+      "variant": 1,
+      "audio": "p14_01_foot.mp3"
+    },
+    {
+      "entry_index": 327,
+      "page": 14,
+      "number": 2,
+      "source_headword": "Uncomfortable",
+      "pronunciation": "Uncomfortable",
+      "speech_text": "Uncomfortable",
+      "variant": 1,
+      "audio": "p14_02_uncomfortable.mp3"
+    },
+    {
+      "entry_index": 328,
+      "page": 14,
+      "number": 3,
+      "source_headword": "oil/fuel",
+      "pronunciation": "oil",
+      "speech_text": "oil",
+      "variant": 1,
+      "audio": "p14_03a_oil.mp3"
+    },
+    {
+      "entry_index": 328,
+      "page": 14,
+      "number": 3,
+      "source_headword": "oil/fuel",
+      "pronunciation": "fuel",
+      "speech_text": "fuel",
+      "variant": 2,
+      "audio": "p14_03b_fuel.mp3"
+    },
+    {
+      "entry_index": 329,
+      "page": 14,
+      "number": 4,
+      "source_headword": "saliva",
+      "pronunciation": "saliva",
+      "speech_text": "saliva",
+      "variant": 1,
+      "audio": "p14_04_saliva.mp3"
+    },
+    {
+      "entry_index": 330,
+      "page": 14,
+      "number": 5,
+      "source_headword": "diagram",
+      "pronunciation": "diagram",
+      "speech_text": "diagram",
+      "variant": 1,
+      "audio": "p14_05_diagram.mp3"
+    },
+    {
+      "entry_index": 331,
+      "page": 14,
+      "number": 6,
+      "source_headword": "soft sediments",
+      "pronunciation": "soft sediments",
+      "speech_text": "soft sediments",
+      "variant": 1,
+      "audio": "p14_06_soft-sediments.mp3"
+    },
+    {
+      "entry_index": 332,
+      "page": 14,
+      "number": 7,
+      "source_headword": "share",
+      "pronunciation": "share",
+      "speech_text": "share",
+      "variant": 1,
+      "audio": "p14_07_share.mp3"
+    },
+    {
+      "entry_index": 333,
+      "page": 14,
+      "number": 8,
+      "source_headword": "Air",
+      "pronunciation": "Air",
+      "speech_text": "Air",
+      "variant": 1,
+      "audio": "p14_08_air.mp3"
+    },
+    {
+      "entry_index": 334,
+      "page": 14,
+      "number": 9,
+      "source_headword": "aware",
+      "pronunciation": "aware",
+      "speech_text": "aware",
+      "variant": 1,
+      "audio": "p14_09_aware.mp3"
+    },
+    {
+      "entry_index": 335,
+      "page": 14,
+      "number": 10,
+      "source_headword": "winter",
+      "pronunciation": "winter",
+      "speech_text": "winter",
+      "variant": 1,
+      "audio": "p14_10_winter.mp3"
+    },
+    {
+      "entry_index": 336,
+      "page": 14,
+      "number": 11,
+      "source_headword": "vitamins",
+      "pronunciation": "vitamins",
+      "speech_text": "vitamins",
+      "variant": 1,
+      "audio": "p14_11_vitamins.mp3"
+    },
+    {
+      "entry_index": 337,
+      "page": 14,
+      "number": 12,
+      "source_headword": "illness",
+      "pronunciation": "illness",
+      "speech_text": "illness",
+      "variant": 1,
+      "audio": "p14_12_illness.mp3"
+    },
+    {
+      "entry_index": 338,
+      "page": 14,
+      "number": 13,
+      "source_headword": "Intelligent",
+      "pronunciation": "Intelligent",
+      "speech_text": "Intelligent",
+      "variant": 1,
+      "audio": "p14_13_intelligent.mp3"
+    },
+    {
+      "entry_index": 339,
+      "page": 14,
+      "number": 14,
+      "source_headword": "drugs",
+      "pronunciation": "drugs",
+      "speech_text": "drugs",
+      "variant": 1,
+      "audio": "p14_14_drugs.mp3"
+    },
+    {
+      "entry_index": 340,
+      "page": 14,
+      "number": 15,
+      "source_headword": "Argentina",
+      "pronunciation": "Argentina",
+      "speech_text": "Argentina",
+      "variant": 1,
+      "audio": "p14_15_argentina.mp3"
+    },
+    {
+      "entry_index": 341,
+      "page": 14,
+      "number": 16,
+      "source_headword": "cotton",
+      "pronunciation": "cotton",
+      "speech_text": "cotton",
+      "variant": 1,
+      "audio": "p14_16_cotton.mp3"
+    },
+    {
+      "entry_index": 342,
+      "page": 14,
+      "number": 17,
+      "source_headword": "flour",
+      "pronunciation": "flour",
+      "speech_text": "flour",
+      "variant": 1,
+      "audio": "p14_17_flour.mp3"
+    }
+  ]
+}

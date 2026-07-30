@@ -1,0 +1,370 @@
+﻿entry_index,page,number,source_headword,pronunciation,speech_text,variant,audio
+1,1,1,taste/flavour/flavor,taste,taste,1,p01_01a_taste.mp3
+1,1,1,taste/flavour/flavor,flavour,flavour,2,p01_01b_flavour.mp3
+1,1,1,taste/flavour/flavor,flavor,flavor,3,p01_01c_flavor.mp3
+2,1,2,Spelling,Spelling,Spelling,1,p01_02_spelling.mp3
+3,1,3,feeding,feeding,feeding,1,p01_03_feeding.mp3
+4,1,4,parents,parents,parents,1,p01_04_parents.mp3
+5,1,5,band,band,band,1,p01_05_band.mp3
+6,1,6,bicycle,bicycle,bicycle,1,p01_06_bicycle.mp3
+7,1,7,Pioneer,Pioneer,Pioneer,1,p01_07_pioneer.mp3
+8,1,8,medicine,medicine,medicine,1,p01_08_medicine.mp3
+9,1,9,income/company’s income,income,income,1,p01_09a_income.mp3
+9,1,9,income/company’s income,company’s income,company’s income,2,p01_09b_company-s-income.mp3
+10,1,10,Influence,Influence,Influence,1,p01_10_influence.mp3
+11,1,11,cleaning,cleaning,cleaning,1,p01_11_cleaning.mp3
+12,1,12,Post Office,Post Office,Post Office,1,p01_12_post-office.mp3
+13,1,13,Next Tuesday,Next Tuesday,Next Tuesday,1,p01_13_next-tuesday.mp3
+14,1,14,mangoes,mangoes,mangoes,1,p01_14_mangoes.mp3
+15,1,15,Storm,Storm,Storm,1,p01_15_storm.mp3
+16,1,16,octopuses,octopuses,octopuses,1,p01_16_octopuses.mp3
+17,1,17,Musical,Musical,Musical,1,p01_17_musical.mp3
+18,1,18,Garden/Cretan Garden,Garden,Garden,1,p01_18a_garden.mp3
+18,1,18,Garden/Cretan Garden,Cretan Garden,Cretan Garden,2,p01_18b_cretan-garden.mp3
+19,1,19,writers,writers,writers,1,p01_19_writers.mp3
+20,1,20,Graphs,Graphs,Graphs,1,p01_20_graphs.mp3
+21,1,21,translation,translation,translation,1,p01_21_translation.mp3
+22,1,22,child seat,child seat,child seat,1,p01_22_child-seat.mp3
+23,1,23,flood,flood,flood,1,p01_23_flood.mp3
+24,1,24,camels,camels,camels,1,p01_24_camels.mp3
+25,1,25,employee first,employee first,employee first,1,p01_25_employee-first.mp3
+26,2,1,sail,sail,sail,1,p02_01_sail.mp3
+27,2,2,lifestyle,lifestyle,lifestyle,1,p02_02_lifestyle.mp3
+28,2,3,middle class,middle class,middle class,1,p02_03_middle-class.mp3
+29,2,4,breed,breed,breed,1,p02_04_breed.mp3
+30,2,5,lock,lock,lock,1,p02_05_lock.mp3
+31,2,6,driver,driver,driver,1,p02_06_driver.mp3
+32,2,7,age,age,age,1,p02_07_age.mp3
+33,2,8,ban,ban,ban,1,p02_08_ban.mp3
+34,2,9,streams,streams,streams,1,p02_09_streams.mp3
+35,2,10,heated,heated,heated,1,p02_10_heated.mp3
+36,2,11,danger,danger,danger,1,p02_11_danger.mp3
+37,2,12,sleep,sleep,sleep,1,p02_12_sleep.mp3
+38,2,13,Trends,Trends,Trends,1,p02_13_trends.mp3
+39,2,14,railway,railway,railway,1,p02_14_railway.mp3
+40,2,15,Zoom,Zoom,Zoom,1,p02_15_zoom.mp3
+41,2,16,nets,nets,nets,1,p02_16_nets.mp3
+42,2,17,square,square,square,1,p02_17_square.mp3
+43,2,18,Balls,Balls,Balls,1,p02_18_balls.mp3
+44,2,19,Pressed,Pressed,Pressed,1,p02_19_pressed.mp3
+45,2,20,Polluted,Polluted,Polluted,1,p02_20_polluted.mp3
+46,2,21,dark blue,dark blue,dark blue,1,p02_21_dark-blue.mp3
+47,2,22,tuna,tuna,tuna,1,p02_22_tuna.mp3
+48,2,23,ocean conditions,ocean conditions,ocean conditions,1,p02_23_ocean-conditions.mp3
+49,2,24,Budget,Budget,Budget,1,p02_24_budget.mp3
+50,2,25,Shopping malls,Shopping malls,Shopping malls,1,p02_25_shopping-malls.mp3
+51,3,1,belt,belt,belt,1,p03_01_belt.mp3
+52,3,2,feminism,feminism,feminism,1,p03_02_feminism.mp3
+53,3,3,more smoothly/smoothly,more smoothly,more smoothly,1,p03_03a_more-smoothly.mp3
+53,3,3,more smoothly/smoothly,smoothly,smoothly,2,p03_03b_smoothly.mp3
+54,3,4,manufacturing,manufacturing,manufacturing,1,p03_04_manufacturing.mp3
+55,3,5,collection,collection,collection,1,p03_05_collection.mp3
+56,3,6,repair,repair,repair,1,p03_06_repair.mp3
+57,3,7,democratic,democratic,democratic,1,p03_07_democratic.mp3
+58,3,8,Horse riding,Horse riding,Horse riding,1,p03_08_horse-riding.mp3
+59,3,9,nineteen,nineteen,nineteen,1,p03_09_nineteen.mp3
+60,3,10,coast,coast,coast,1,p03_10_coast.mp3
+61,3,11,Limited,Limited,Limited,1,p03_11_limited.mp3
+62,3,12,clean,clean,clean,1,p03_12_clean.mp3
+63,3,13,walking,walking,walking,1,p03_13_walking.mp3
+64,3,14,aeroplane/airplane,aeroplane,aeroplane,1,p03_14a_aeroplane.mp3
+64,3,14,aeroplane/airplane,airplane,airplane,2,p03_14b_airplane.mp3
+65,3,15,early mornings,early mornings,early mornings,1,p03_15_early-mornings.mp3
+66,3,16,storms,storms,storms,1,p03_16_storms.mp3
+67,3,17,post.com,post.com,post.com,1,p03_17_post-com.mp3
+68,3,18,wildlife,wildlife,wildlife,1,p03_18_wildlife.mp3
+69,3,19,snowboarding,snowboarding,snowboarding,1,p03_19_snowboarding.mp3
+70,3,20,Kierke,Kierke,Kierke,1,p03_20_kierke.mp3
+71,3,21,Gym,Gym,Gym,1,p03_21_gym.mp3
+72,3,22,Dance,Dance,Dance,1,p03_22_dance.mp3
+73,3,23,receptionist,receptionist,receptionist,1,p03_23_receptionist.mp3
+74,3,24,chemical,chemical,chemical,1,p03_24_chemical.mp3
+75,3,25,exercises,exercises,exercises,1,p03_25_exercises.mp3
+76,4,1,value,value,value,1,p04_01_value.mp3
+77,4,2,fun,fun,fun,1,p04_02_fun.mp3
+78,4,3,warm,warm,warm,1,p04_03_warm.mp3
+79,4,4,sandwiches,sandwiches,sandwiches,1,p04_04_sandwiches.mp3
+80,4,5,rescue diver,rescue diver,rescue diver,1,p04_05_rescue-diver.mp3
+81,4,6,State,State,State,1,p04_06_state.mp3
+82,4,7,Protected,Protected,Protected,1,p04_07_protected.mp3
+83,4,8,status,status,status,1,p04_08_status.mp3
+84,4,9,Trousers,Trousers,Trousers,1,p04_09_trousers.mp3
+85,4,10,SWAVESEY,SWAVESEY,SWAVESEY,1,p04_10_swavesey.mp3
+86,4,11,safer,safer,safer,1,p04_11_safer.mp3
+87,4,12,Wind,Wind,Wind,1,p04_12_wind.mp3
+88,4,13,Japan,Japan,Japan,1,p04_13_japan.mp3
+89,4,14,Cable car,Cable car,Cable car,1,p04_14_cable-car.mp3
+90,4,15,Words,Words,Words,1,p04_15_words.mp3
+91,4,16,Sandglasses,Sandglasses,Sandglasses,1,p04_16_sandglasses.mp3
+92,4,17,film,film,film,1,p04_17_film.mp3
+93,4,18,eight,eight,eight,1,p04_18_eight.mp3
+94,4,19,North America,North America,North America,1,p04_19_north-america.mp3
+95,4,20,Freedom,Freedom,Freedom,1,p04_20_freedom.mp3
+96,4,21,Accept,Accept,Accept,1,p04_21_accept.mp3
+97,4,22,Myth,Myth,Myth,1,p04_22_myth.mp3
+98,4,23,credit check,credit check,credit check,1,p04_23_credit-check.mp3
+99,4,24,tape measure,tape measure,tape measure,1,p04_24_tape-measure.mp3
+100,4,25,satellite,satellite,satellite,1,p04_25_satellite.mp3
+101,5,1,Glass,Glass,Glass,1,p05_01_glass.mp3
+102,5,2,preserved,preserved,preserved,1,p05_02_preserved.mp3
+103,5,3,carnival,carnival,carnival,1,p05_03_carnival.mp3
+104,5,4,Crops,Crops,Crops,1,p05_04_crops.mp3
+105,5,5,North africa,North africa,North africa,1,p05_05_north-africa.mp3
+106,5,6,Farmers,Farmers,Farmers,1,p05_06_farmers.mp3
+107,5,7,Regional Manager,Regional Manager,Regional Manager,1,p05_07_regional-manager.mp3
+108,5,8,diving experience,diving experience,diving experience,1,p05_08_diving-experience.mp3
+109,5,9,whistle,whistle,whistle,1,p05_09_whistle.mp3
+110,5,10,Map/Good Map,Map,Map,1,p05_10a_map.mp3
+110,5,10,Map/Good Map,Good Map,Good Map,2,p05_10b_good-map.mp3
+111,5,11,baseball coach,baseball coach,baseball coach,1,p05_11_baseball-coach.mp3
+112,5,12,DRESSLER,DRESSLER,D R E S S L E R,1,p05_12_dressler.mp3
+113,5,13,shell,shell,shell,1,p05_13_shell.mp3
+114,5,14,residents,residents,residents,1,p05_14_residents.mp3
+115,5,15,Smithers,Smithers,Smithers,1,p05_15_smithers.mp3
+116,5,16,radio,radio,radio,1,p05_16_radio.mp3
+117,5,17,four days,four days,four days,1,p05_17_four-days.mp3
+118,5,18,Russia,Russia,Russia,1,p05_18_russia.mp3
+119,5,19,charity,charity,charity,1,p05_19_charity.mp3
+120,5,20,club,club,club,1,p05_20_club.mp3
+121,5,21,oldest,oldest,oldest,1,p05_21_oldest.mp3
+122,5,22,Walking boots,Walking boots,Walking boots,1,p05_22_walking-boots.mp3
+123,5,23,Mould/Mold,Mould,Mould,1,p05_23a_mould.mp3
+123,5,23,Mould/Mold,Mold,Mold,2,p05_23b_mold.mp3
+124,5,24,forty-eight,forty-eight,forty-eight,1,p05_24_forty-eight.mp3
+125,5,25,vacation,vacation,vacation,1,p05_25_vacation.mp3
+126,6,1,balcony,balcony,balcony,1,p06_01_balcony.mp3
+127,6,2,Triangle,Triangle,Triangle,1,p06_02_triangle.mp3
+128,6,3,drive,drive,drive,1,p06_03_drive.mp3
+129,6,4,two pockets,two pockets,two pockets,1,p06_04_two-pockets.mp3
+130,6,5,pens,pens,pens,1,p06_05_pens.mp3
+131,6,6,skirt,skirt,skirt,1,p06_06_skirt.mp3
+132,6,7,Supervisor,Supervisor,Supervisor,1,p06_07_supervisor.mp3
+133,6,8,Saturday mornings,Saturday mornings,Saturday mornings,1,p06_08_saturday-mornings.mp3
+134,6,9,navigational,navigational,navigational,1,p06_09_navigational.mp3
+135,6,10,Wood,Wood,Wood,1,p06_10_wood.mp3
+136,6,11,Greenride,Greenride,Greenride,1,p06_11_greenride.mp3
+137,6,12,less effort,less effort,less effort,1,p06_12_less-effort.mp3
+138,6,13,teeth,teeth,teeth,1,p06_13_teeth.mp3
+139,6,14,tools,tools,tools,1,p06_14_tools.mp3
+140,6,15,Plans,Plans,Plans,1,p06_15_plans.mp3
+141,6,16,eclipse,eclipse,eclipse,1,p06_16_eclipse.mp3
+142,6,17,economy,economy,economy,1,p06_17_economy.mp3
+143,6,18,Sun’s position,Sun’s position,Sun’s position,1,p06_18_sun-s-position.mp3
+144,6,19,spines,spines,spines,1,p06_19_spines.mp3
+145,6,20,Feature,Feature,Feature,1,p06_20_feature.mp3
+146,6,21,Traders,Traders,Traders,1,p06_21_traders.mp3
+147,6,22,promotion,promotion,promotion,1,p06_22_promotion.mp3
+148,6,23,trays,trays,trays,1,p06_23_trays.mp3
+149,6,24,fertilizers/fertilisers,fertilizers,fertilizers,1,p06_24a_fertilizers.mp3
+149,6,24,fertilizers/fertilisers,fertilisers,fertilisers,2,p06_24b_fertilisers.mp3
+150,6,25,change,change,change,1,p06_25_change.mp3
+151,7,1,bonus/bonuses,bonus,bonus,1,p07_01a_bonus.mp3
+151,7,1,bonus/bonuses,bonuses,bonuses,2,p07_01b_bonuses.mp3
+152,7,2,transparency,transparency,transparency,1,p07_02_transparency.mp3
+153,7,3,letter,letter,letter,1,p07_03_letter.mp3
+154,7,4,elephant,elephant,elephant,1,p07_04_elephant.mp3
+155,7,5,inscriptions,inscriptions,inscriptions,1,p07_05_inscriptions.mp3
+156,7,6,Advertisements,Advertisements,Advertisements,1,p07_06_advertisements.mp3
+157,7,7,cosmetics,cosmetics,cosmetics,1,p07_07_cosmetics.mp3
+158,7,8,internal website,internal website,internal website,1,p07_08_internal-website.mp3
+159,7,9,audiences/the poor,audiences,audiences,1,p07_09a_audiences.mp3
+159,7,9,audiences/the poor,the poor,the poor,2,p07_09b_the-poor.mp3
+160,7,10,flavour/flavor,flavour,flavour,1,p07_10a_flavour.mp3
+160,7,10,flavour/flavor,flavor,flavor,2,p07_10b_flavor.mp3
+161,7,11,Fish dishes,Fish dishes,Fish dishes,1,p07_11_fish-dishes.mp3
+162,7,12,clocks,clocks,clocks,1,p07_12_clocks.mp3
+163,7,13,wild,wild,wild,1,p07_13_wild.mp3
+164,7,14,King/kings,King,King,1,p07_14a_king.mp3
+164,7,14,King/kings,kings,kings,2,p07_14b_kings.mp3
+165,7,15,anti-freeze/antifreeze,anti-freeze,anti-freeze,1,p07_15a_anti-freeze.mp3
+165,7,15,anti-freeze/antifreeze,antifreeze,antifreeze,2,p07_15b_antifreeze.mp3
+166,7,16,Improvement,Improvement,Improvement,1,p07_16_improvement.mp3
+167,7,17,coastlines,coastlines,coastlines,1,p07_17_coastlines.mp3
+168,7,18,dates,dates,dates,1,p07_18_dates.mp3
+169,7,19,toys,toys,toys,1,p07_19_toys.mp3
+170,7,20,Infection,Infection,Infection,1,p07_20_infection.mp3
+171,7,21,stone,stone,stone,1,p07_21_stone.mp3
+172,7,22,Advertise,Advertise,Advertise,1,p07_22_advertise.mp3
+173,7,23,Tourists,Tourists,Tourists,1,p07_23_tourists.mp3
+174,7,24,claws,claws,claws,1,p07_24_claws.mp3
+175,7,25,right,right,right,1,p07_25_right.mp3
+176,8,1,tires/tyres,tires,tires,1,p08_01a_tires.mp3
+176,8,1,tires/tyres,tyres,tyres,2,p08_01b_tyres.mp3
+177,8,2,connected,connected,connected,1,p08_02_connected.mp3
+178,8,3,hospitality,hospitality,hospitality,1,p08_03_hospitality.mp3
+179,8,4,Client engineer,Client engineer,Client engineer,1,p08_04_client-engineer.mp3
+180,8,5,beach,beach,beach,1,p08_05_beach.mp3
+181,8,6,equal,equal,equal,1,p08_06_equal.mp3
+182,8,7,zippers,zippers,zippers,1,p08_07_zippers.mp3
+183,8,8,Walkley,Walkley,W A L K L E Y,1,p08_08_walkley.mp3
+184,8,9,High,High,H I G H,1,p08_09_high.mp3
+185,8,10,coins,coins,coins,1,p08_10_coins.mp3
+186,8,11,maths/math/mathematics,maths,maths,1,p08_11a_maths.mp3
+186,8,11,maths/math/mathematics,math,math,2,p08_11b_math.mp3
+186,8,11,maths/math/mathematics,mathematics,mathematics,3,p08_11c_mathematics.mp3
+187,8,12,cake,cake,cake,1,p08_12_cake.mp3
+188,8,13,Camel,Camel,Camel,1,p08_13_camel.mp3
+189,8,14,Tennis courts,Tennis courts,Tennis courts,1,p08_14_tennis-courts.mp3
+190,8,15,chemicals,chemicals,chemicals,1,p08_15_chemicals.mp3
+191,8,16,planning,planning,planning,1,p08_16_planning.mp3
+192,8,17,Home Welcome,Home Welcome,Home Welcome,1,p08_17_home-welcome.mp3
+193,8,18,tradition,tradition,tradition,1,p08_18_tradition.mp3
+194,8,19,caravan,caravan,caravan,1,p08_19_caravan.mp3
+195,8,20,cakes,cakes,cakes,1,p08_20_cakes.mp3
+196,8,21,six,six,six,1,p08_21_six.mp3
+197,8,22,layout,layout,layout,1,p08_22_layout.mp3
+198,8,23,ears/hearing,ears,ears,1,p08_23a_ears.mp3
+198,8,23,ears/hearing,hearing,hearing,2,p08_23b_hearing.mp3
+199,8,24,Varied,Varied,Varied,1,p08_24_varied.mp3
+200,8,25,gold,gold,gold,1,p08_25_gold.mp3
+201,9,1,silk,silk,silk,1,p09_01_silk.mp3
+202,9,2,unnatural,unnatural,unnatural,1,p09_02_unnatural.mp3
+203,9,3,tunnel,tunnel,tunnel,1,p09_03_tunnel.mp3
+204,9,4,typing,typing,typing,1,p09_04_typing.mp3
+205,9,5,shipping,shipping,shipping,1,p09_05_shipping.mp3
+206,9,6,Mathematics/math/maths,Mathematics,Mathematics,1,p09_06a_mathematics.mp3
+206,9,6,Mathematics/math/maths,math,math,2,p09_06b_math.mp3
+206,9,6,Mathematics/math/maths,maths,maths,3,p09_06c_maths.mp3
+207,9,7,gases,gases,gases,1,p09_07_gases.mp3
+208,9,8,critical,critical,critical,1,p09_08_critical.mp3
+209,9,9,Switched off,Switched off,Switched off,1,p09_09_switched-off.mp3
+210,9,10,Donkey,Donkey,Donkey,1,p09_10_donkey.mp3
+211,9,11,instinctive,instinctive,instinctive,1,p09_11_instinctive.mp3
+212,9,12,invitations,invitations,invitations,1,p09_12_invitations.mp3
+213,9,13,write,write,write,1,p09_13_write.mp3
+214,9,14,Massage,Massage,Massage,1,p09_14_massage.mp3
+215,9,15,GERALD,GERALD,G E R A L D,1,p09_15_gerald.mp3
+216,9,16,weeds,weeds,weeds,1,p09_16_weeds.mp3
+217,9,17,exercise,exercise,exercise,1,p09_17_exercise.mp3
+218,9,18,dishwasher,dishwasher,dishwasher,1,p09_18_dishwasher.mp3
+219,9,19,beer,beer,beer,1,p09_19_beer.mp3
+220,9,20,medical,medical,medical,1,p09_20_medical.mp3
+221,9,21,sculpture,sculpture,sculpture,1,p09_21_sculpture.mp3
+222,9,22,ice pack,ice pack,ice pack,1,p09_22_ice-pack.mp3
+223,9,23,energy,energy,energy,1,p09_23_energy.mp3
+224,9,24,cracks,cracks,cracks,1,p09_24_cracks.mp3
+225,9,25,cargo,cargo,cargo,1,p09_25_cargo.mp3
+226,10,1,Middle Street,Middle Street,Middle Street,1,p10_01_middle-street.mp3
+227,10,2,menu,menu,menu,1,p10_02_menu.mp3
+228,10,3,exhibitions,exhibitions,exhibitions,1,p10_03_exhibitions.mp3
+229,10,4,gas,gas,gas,1,p10_04_gas.mp3
+230,10,5,five hours,five hours,five hours,1,p10_05_five-hours.mp3
+231,10,6,Essays,Essays,Essays,1,p10_06_essays.mp3
+232,10,7,Rooftop,Rooftop,Rooftop,1,p10_07_rooftop.mp3
+233,10,8,timber,timber,timber,1,p10_08_timber.mp3
+234,10,9,Dried,Dried,Dried,1,p10_09_dried.mp3
+235,10,10,singing,singing,singing,1,p10_10_singing.mp3
+236,10,11,Bird-watching/Birdwatching,Bird-watching,Bird-watching,1,p10_11a_bird-watching.mp3
+236,10,11,Bird-watching/Birdwatching,Birdwatching,Birdwatching,2,p10_11b_birdwatching.mp3
+237,10,12,religion,religion,religion,1,p10_12_religion.mp3
+238,10,13,Volcano,Volcano,Volcano,1,p10_13_volcano.mp3
+239,10,14,traditional,traditional,traditional,1,p10_14_traditional.mp3
+240,10,15,steel,steel,steel,1,p10_15_steel.mp3
+241,10,16,sharks,sharks,sharks,1,p10_16_sharks.mp3
+242,10,17,recycling,recycling,recycling,1,p10_17_recycling.mp3
+243,10,18,Emotional,Emotional,Emotional,1,p10_18_emotional.mp3
+244,10,19,Covering,Covering,Covering,1,p10_19_covering.mp3
+245,10,20,eighty-five,eighty-five,eighty-five,1,p10_20_eighty-five.mp3
+246,10,21,handle,handle,handle,1,p10_21_handle.mp3
+247,10,22,microscope,microscope,microscope,1,p10_22_microscope.mp3
+248,10,23,classic,classic,classic,1,p10_23_classic.mp3
+249,10,24,Asia/Japan,Asia,Asia,1,p10_24a_asia.mp3
+249,10,24,Asia/Japan,Japan,Japan,2,p10_24b_japan.mp3
+250,10,25,Process,Process,Process,1,p10_25_process.mp3
+251,11,1,journalist,journalist,journalist,1,p11_01_journalist.mp3
+252,11,2,Government/the government,Government,Government,1,p11_02a_government.mp3
+252,11,2,Government/the government,the government,the government,2,p11_02b_the-government.mp3
+253,11,3,aging,aging,aging,1,p11_03_aging.mp3
+254,11,4,hospital,hospital,hospital,1,p11_04_hospital.mp3
+255,11,5,More elastic,More elastic,More elastic,1,p11_05_more-elastic.mp3
+256,11,6,quality customer/customer,quality customer,quality customer,1,p11_06a_quality-customer.mp3
+256,11,6,quality customer/customer,customer,customer,2,p11_06b_customer.mp3
+257,11,7,digestive,digestive,digestive,1,p11_07_digestive.mp3
+258,11,8,six months,six months,six months,1,p11_08_six-months.mp3
+259,11,9,carbon dioxide,carbon dioxide,carbon dioxide,1,p11_09_carbon-dioxide.mp3
+260,11,10,horizontal,horizontal,horizontal,1,p11_10_horizontal.mp3
+261,11,11,microwave,microwave,microwave,1,p11_11_microwave.mp3
+262,11,12,sample,sample,sample,1,p11_12_sample.mp3
+263,11,13,Tent,Tent,Tent,1,p11_13_tent.mp3
+264,11,14,technology,technology,technology,1,p11_14_technology.mp3
+265,11,15,Silence,Silence,Silence,1,p11_15_silence.mp3
+266,11,16,iron,iron,iron,1,p11_16_iron.mp3
+267,11,17,friction,friction,friction,1,p11_17_friction.mp3
+268,11,18,nine months,nine months,nine months,1,p11_18_nine-months.mp3
+269,11,19,leak,leak,leak,1,p11_19_leak.mp3
+270,11,20,Mapping,Mapping,Mapping,1,p11_20_mapping.mp3
+271,11,21,rubber wheels,rubber wheels,rubber wheels,1,p11_21_rubber-wheels.mp3
+272,11,22,Curtis,Curtis,C U R T I S,1,p11_22_curtis.mp3
+273,11,23,Thunder,Thunder,Thunder,1,p11_23_thunder.mp3
+274,11,24,sunlight,sunlight,sunlight,1,p11_24_sunlight.mp3
+275,11,25,paint,paint,paint,1,p11_25_paint.mp3
+276,12,1,presents,presents,presents,1,p12_01_presents.mp3
+277,12,2,antibiotic,antibiotic,antibiotic,1,p12_02_antibiotic.mp3
+278,12,3,solution,solution,solution,1,p12_03_solution.mp3
+279,12,4,notebook,notebook,notebook,1,p12_04_notebook.mp3
+280,12,5,Lamb,Lamb,Lamb,1,p12_05_lamb.mp3
+281,12,6,Homes,Homes,Homes,1,p12_06_homes.mp3
+282,12,7,White Mountain,White Mountain,White Mountain,1,p12_07_white-mountain.mp3
+283,12,8,Deposit/A deposit,Deposit,Deposit,1,p12_08a_deposit.mp3
+283,12,8,Deposit/A deposit,A deposit,A deposit,2,p12_08b_a-deposit.mp3
+284,12,9,ASCOT,ASCOT,ASCOT,1,p12_09_ascot.mp3
+285,12,10,Tents,Tents,Tents,1,p12_10_tents.mp3
+286,12,11,transport,transport,transport,1,p12_11_transport.mp3
+287,12,12,Extinction,Extinction,Extinction,1,p12_12_extinction.mp3
+288,12,13,spring,spring,spring,1,p12_13_spring.mp3
+289,12,14,golf,golf,golf,1,p12_14_golf.mp3
+290,12,15,reduction,reduction,reduction,1,p12_15_reduction.mp3
+291,12,16,Gray/Grey,Gray,Gray,1,p12_16a_gray.mp3
+291,12,16,Gray/Grey,Grey,Grey,2,p12_16b_grey.mp3
+292,12,17,microscopes,microscopes,microscopes,1,p12_17_microscopes.mp3
+293,12,18,Flexible,Flexible,Flexible,1,p12_18_flexible.mp3
+294,12,19,corn,corn,corn,1,p12_19_corn.mp3
+295,12,20,Jungle,Jungle,Jungle,1,p12_20_jungle.mp3
+296,12,21,Weather conditions,Weather conditions,Weather conditions,1,p12_21_weather-conditions.mp3
+297,12,22,fabric,fabric,fabric,1,p12_22_fabric.mp3
+298,12,23,scientists,scientists,scientists,1,p12_23_scientists.mp3
+299,12,24,Photography,Photography,Photography,1,p12_24_photography.mp3
+300,12,25,workers,workers,workers,1,p12_25_workers.mp3
+301,13,1,Reason,Reason,Reason,1,p13_01_reason.mp3
+302,13,2,shore,shore,shore,1,p13_02_shore.mp3
+303,13,3,lizard,lizard,lizard,1,p13_03_lizard.mp3
+304,13,4,coin,coin,coin,1,p13_04_coin.mp3
+305,13,5,shallow,shallow,shallow,1,p13_05_shallow.mp3
+306,13,6,Time,Time,Time,1,p13_06_time.mp3
+307,13,7,grocery shopping,grocery shopping,grocery shopping,1,p13_07_grocery-shopping.mp3
+308,13,8,Cooperation,Cooperation,Cooperation,1,p13_08_cooperation.mp3
+309,13,9,Grain,Grain,Grain,1,p13_09_grain.mp3
+310,13,10,Arrows,Arrows,Arrows,1,p13_10_arrows.mp3
+311,13,11,bacteria,bacteria,bacteria,1,p13_11_bacteria.mp3
+312,13,12,Chart,Chart,Chart,1,p13_12_chart.mp3
+313,13,13,navigate,navigate,navigate,1,p13_13_navigate.mp3
+314,13,14,Elsinore,Elsinore,Elsinore,1,p13_14_elsinore.mp3
+315,13,15,Birth,Birth,Birth,1,p13_15_birth.mp3
+316,13,16,EURONTAS,EURONTAS,EURONTAS,1,p13_16_eurontas.mp3
+317,13,17,Reception,Reception,Reception,1,p13_17_reception.mp3
+318,13,18,swim,swim,swim,1,p13_18_swim.mp3
+319,13,19,direct,direct,direct,1,p13_19_direct.mp3
+320,13,20,testing,testing,testing,1,p13_20_testing.mp3
+321,13,21,Charlecote,Charlecote,Charlecote,1,p13_21_charlecote.mp3
+322,13,22,sight,sight,sight,1,p13_22_sight.mp3
+323,13,23,Dreams,Dreams,Dreams,1,p13_23_dreams.mp3
+324,13,24,Cliffton,Cliffton,Cliffton,1,p13_24_cliffton.mp3
+325,13,25,crack,crack,crack,1,p13_25_crack.mp3
+326,14,1,Foot,Foot,Foot,1,p14_01_foot.mp3
+327,14,2,Uncomfortable,Uncomfortable,Uncomfortable,1,p14_02_uncomfortable.mp3
+328,14,3,oil/fuel,oil,oil,1,p14_03a_oil.mp3
+328,14,3,oil/fuel,fuel,fuel,2,p14_03b_fuel.mp3
+329,14,4,saliva,saliva,saliva,1,p14_04_saliva.mp3
+330,14,5,diagram,diagram,diagram,1,p14_05_diagram.mp3
+331,14,6,soft sediments,soft sediments,soft sediments,1,p14_06_soft-sediments.mp3
+332,14,7,share,share,share,1,p14_07_share.mp3
+333,14,8,Air,Air,Air,1,p14_08_air.mp3
+334,14,9,aware,aware,aware,1,p14_09_aware.mp3
+335,14,10,winter,winter,winter,1,p14_10_winter.mp3
+336,14,11,vitamins,vitamins,vitamins,1,p14_11_vitamins.mp3
+337,14,12,illness,illness,illness,1,p14_12_illness.mp3
+338,14,13,Intelligent,Intelligent,Intelligent,1,p14_13_intelligent.mp3
+339,14,14,drugs,drugs,drugs,1,p14_14_drugs.mp3
+340,14,15,Argentina,Argentina,Argentina,1,p14_15_argentina.mp3
+341,14,16,cotton,cotton,cotton,1,p14_16_cotton.mp3
+342,14,17,flour,flour,flour,1,p14_17_flour.mp3
