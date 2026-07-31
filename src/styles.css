@@ -217,6 +217,8 @@ button:disabled {
 
 .library-group {
   padding-top: 28px;
+  content-visibility: auto;
+  contain-intrinsic-size: auto 720px;
 }
 
 .library-group-heading {

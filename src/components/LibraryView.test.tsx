@@ -67,6 +67,42 @@ const fixture: QuizData = {
 };
 
 describe("library view", () => {
+  it("searches headwords, accepted variants, and Chinese meanings", async () => {
+    const user = userEvent.setup();
+    const searchableFixture: QuizData = {
+      ...fixture,
+      questions: [
+        {
+          ...questions[0],
+          sourceHeadword: "Theatre",
+          canonicalAnswer: "theatre",
+          acceptedAnswers: ["theatre", "theater"],
+          meaningZh: "剧院",
+        },
+        questions[1],
+      ],
+    };
+
+    render(
+      <LibraryView
+        data={searchableFixture}
+        initialScope="jian21"
+        onPlay={vi.fn()}
+        onResetCollectionProgress={vi.fn()}
+      />,
+    );
+
+    const search = screen.getByRole("searchbox");
+    await user.type(search, "THEATER");
+    expect(await screen.findByText("theatre")).toBeInTheDocument();
+    expect(screen.queryByText("word-2")).not.toBeInTheDocument();
+
+    await user.clear(search);
+    await user.type(search, "剧院");
+    expect(await screen.findByText("theatre")).toBeInTheDocument();
+    expect(screen.queryByText("word-2")).not.toBeInTheDocument();
+  });
+
   it("groups a source page into chunks of at most 25 words", async () => {
     const user = userEvent.setup();
     const onPlay = vi.fn();

@@ -1,5 +1,5 @@
 import { Play, RotateCcw, Search } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useDeferredValue, useMemo, useState } from "react";
 import { buildPageGroups } from "../lib/quiz";
 import type { CollectionId, CollectionScope, QuizData, QuizQuestion } from "../types";
 
@@ -25,16 +25,29 @@ export default function LibraryView({
 }: LibraryViewProps) {
   const [scope, setScope] = useState<CollectionScope>(initialScope);
   const [query, setQuery] = useState("");
+  const deferredQuery = useDeferredValue(query);
+
+  const searchIndex = useMemo(
+    () =>
+      new Map(
+        data.questions.map((question) => [
+          question.id,
+          `${question.sourceHeadword} ${question.acceptedAnswers.join(" ")} ${question.meaningZh}`
+            .normalize("NFKC")
+            .toLocaleLowerCase(),
+        ]),
+      ),
+    [data.questions],
+  );
 
   const groups = useMemo(() => {
-    const normalizedQuery = query.trim().toLocaleLowerCase();
+    const normalizedQuery = deferredQuery.trim().normalize("NFKC").toLocaleLowerCase();
     const matchingQuestions = data.questions.filter((question) => {
-      const searchable = `${question.sourceHeadword} ${question.acceptedAnswers.join(" ")} ${question.meaningZh}`
-        .toLocaleLowerCase();
-      return !normalizedQuery || searchable.includes(normalizedQuery);
+      if (scope !== "all" && question.collectionId !== scope) return false;
+      return !normalizedQuery || searchIndex.get(question.id)?.includes(normalizedQuery);
     });
-    return buildPageGroups(matchingQuestions, scope);
-  }, [data.questions, query, scope]);
+    return buildPageGroups(matchingQuestions, "all");
+  }, [data.questions, deferredQuery, scope, searchIndex]);
 
   const visibleCount = groups.reduce((total, group) => total + group.questions.length, 0);
 
@@ -83,7 +96,7 @@ export default function LibraryView({
         </label>
       </div>
 
-      <div className="library-groups">
+      <div className="library-groups" aria-busy={query !== deferredQuery}>
         {groups.length === 0 ? (
           <div className="library-empty">没有匹配的词条</div>
         ) : (
