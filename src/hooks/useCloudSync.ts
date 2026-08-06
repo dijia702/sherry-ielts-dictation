@@ -108,7 +108,7 @@ export function useCloudSync(
     if (!supabase) return { error: "尚未配置云同步。" };
     const { error } = await supabase.auth.signInWithOtp({
       email,
-      options: { emailRedirectTo: window.location.origin },
+      options: { emailRedirectTo: new URL(".", window.location.href).href },
     });
     if (error) return { error: error.message };
     setMessage("登录链接已发送，请在同一台设备上打开邮件完成登录。");
