@@ -70,6 +70,8 @@ export interface AppSettings {
 
 export interface PersistedState {
   schemaVersion: 1;
+  /** Timestamp used only when a state snapshot is synchronized to the cloud. */
+  cloudUpdatedAt?: string;
   elapsedSeconds?: number;
   elapsedSecondsByPage?: Record<string, number>;
   collectionScope: CollectionScope;

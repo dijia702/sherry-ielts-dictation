@@ -104,6 +104,7 @@ export function isPersistedState(value: unknown): value is PersistedState {
   const settings = candidate.settings;
   return (
     candidate.schemaVersion === 1 &&
+    (candidate.cloudUpdatedAt === undefined || typeof candidate.cloudUpdatedAt === "string") &&
     (candidate.elapsedSeconds === undefined ||
       (Number.isInteger(candidate.elapsedSeconds) && candidate.elapsedSeconds >= 0)) &&
     ["jian21", "jijing_supplement", "xiahua_p1p4", "all"].includes(

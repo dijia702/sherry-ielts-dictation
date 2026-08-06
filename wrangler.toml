@@ -1,0 +1,3 @@
+name = "sherry-ielts-dictation"
+compatibility_date = "2026-08-06"
+pages_build_output_dir = "dist"

@@ -1843,6 +1843,71 @@ button:disabled {
   animation: dialog-enter 220ms var(--ease-out-quint) both;
 }
 
+.cloud-sync-panel {
+  display: grid;
+  gap: 10px;
+  padding: 16px 22px;
+  border-bottom: 1px solid var(--border);
+  background: #fbfcfc;
+}
+
+.cloud-sync-heading,
+.cloud-sync-actions,
+.cloud-sign-in {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.cloud-sync-heading > .lucide {
+  color: var(--accent-strong);
+}
+
+.cloud-sync-heading strong {
+  display: block;
+  font-size: 14px;
+}
+
+.cloud-sync-heading p,
+.cloud-sync-help,
+.cloud-sync-message {
+  margin: 2px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.cloud-sign-in input {
+  min-width: 0;
+  flex: 1;
+  height: 34px;
+  border: 1px solid var(--border-strong);
+  border-radius: 5px;
+  padding: 0 9px;
+  color: var(--ink);
+  font: inherit;
+  font-size: 12px;
+}
+
+.cloud-sign-in input:focus-visible {
+  outline: 3px solid rgba(63, 119, 115, 0.18);
+  outline-offset: 1px;
+}
+
+.cloud-sync-actions > span {
+  min-width: 0;
+  flex: 1;
+  overflow: hidden;
+  color: var(--muted);
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cloud-sync-message {
+  color: var(--accent-strong);
+}
+
 @keyframes dialog-enter {
   from {
     opacity: 0;

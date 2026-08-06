@@ -14,6 +14,13 @@ scripts/__pycache__/
 *.pyc
 *.log
 $tmp
+
+# Local cloud configuration. Public Supabase browser keys are loaded from this file,
+# but the file is intentionally never committed.
+.env
+.env.*
+!.env.example
+.dev.vars
 index-*.js
 
 # Editor and operating-system metadata

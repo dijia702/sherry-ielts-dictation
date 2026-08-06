@@ -33,7 +33,9 @@ import {
   useState,
 } from "react";
 import { useAudioSequence } from "./hooks/useAudioSequence";
+import { useCloudSync } from "./hooks/useCloudSync";
 import LibraryView from "./components/LibraryView";
+import CloudSyncPanel from "./components/CloudSyncPanel";
 import {
   ALL_PAGES,
   buildPageGroups,
@@ -156,6 +158,7 @@ export default function App({ data }: AppProps) {
     "practice" | "library" | "wrong" | "wrong-flashcards"
   >("practice");
   const [persisted, setPersisted] = useState<PersistedState>(() => loadState());
+  const cloudSync = useCloudSync(persisted, setPersisted);
   const [answer, setAnswer] = useState("");
   const [feedback, setFeedback] = useState<FeedbackState>({ type: "idle" });
   const [wrongDrawerOpen, setWrongDrawerOpen] = useState(false);
@@ -2326,6 +2329,15 @@ export default function App({ data }: AppProps) {
                 <X size={20} />
               </button>
             </div>
+            <CloudSyncPanel
+              configured={cloudSync.configured}
+              email={cloudSync.email}
+              status={cloudSync.status}
+              message={cloudSync.message}
+              onSignIn={cloudSync.signInWithEmail}
+              onSignOut={cloudSync.signOut}
+              onSynchronize={cloudSync.synchronize}
+            />
             <div className="settings-row stacked">
               <strong>播放速度</strong>
               <div className="segmented-control speed-control">
