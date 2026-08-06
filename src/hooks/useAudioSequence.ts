@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
+import { resolveAudioAssetUrl } from "../lib/audioAsset";
 import type { Accent, QuizQuestion } from "../types";
 
 interface AudioSequenceState {
@@ -7,10 +8,6 @@ interface AudioSequenceState {
 }
 
 const GAP_MS = 250;
-
-function assetUrl(src: string): string {
-  return new URL(src, document.baseURI).href;
-}
 
 export function useAudioSequence(playbackRate: number) {
   const audioRef = useRef<HTMLAudioElement | null>(null);
@@ -37,7 +34,7 @@ export function useAudioSequence(playbackRate: number) {
         if (token !== runTokenRef.current) return;
         const clip = question.audioSequence[index];
         setState({ isPlaying: true, activeAccent: clip.accent });
-        const audio = new Audio(assetUrl(clip.src));
+        const audio = new Audio(resolveAudioAssetUrl(clip.src, document.baseURI));
         audio.preload = "auto";
         audio.playbackRate = playbackRate;
         audioRef.current = audio;
