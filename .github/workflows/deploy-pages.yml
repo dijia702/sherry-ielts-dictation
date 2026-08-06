@@ -20,6 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       VITE_SUPABASE_URL: ${{ secrets.VITE_SUPABASE_URL }}
+      VITE_AUDIO_BASE_URL: https://raw.githubusercontent.com/dijia702/sherry-ielts-dictation/release/v1.2.0/public/audio/
       VITE_SUPABASE_ANON_KEY: ${{ secrets.VITE_SUPABASE_ANON_KEY }}
     steps:
       - name: Check out source
@@ -35,6 +36,8 @@ jobs:
         run: npm test -- --run
       - name: Build production site
         run: npm run build
+      - name: Exclude repository-hosted audio from Pages artifact
+        run: rm -rf dist/audio
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -50,7 +53,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          # The site includes the local audio library and can take more than
-          # GitHub's default ten minutes to publish.
-          timeout: 1200000
